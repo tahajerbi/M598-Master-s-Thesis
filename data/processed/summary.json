@@ -1,0 +1,186 @@
+{
+  "data_quality_flags": {
+    "n_nodes": 51486,
+    "n_nodes_missing_date": 0,
+    "n_nodes_missing_user": 0,
+    "n_edges_before_cycle_fix": 62984,
+    "n_edges_kept": 62300,
+    "n_edges_removed_time_inverted": 684,
+    "n_edges_removed_cycle_same_day": 0,
+    "edge_type_counts": {
+      "local": 59186,
+      "pool": 3114
+    },
+    "edge_source_counts": {
+      "embedded": 38876,
+      "query": 23424
+    },
+    "edges_pool_parent_offsite": 3114
+  },
+  "outcomes": {
+    "local": {
+      "n_nodes": 51486,
+      "remixed_at_least_once": 18766,
+      "base_rate_remixed_once": 0.3645,
+      "spawned_further_remix": 8104,
+      "base_rate_spawned_further": 0.1574,
+      "remixes_received_histogram": {
+        "0": 32720,
+        "1": 8922,
+        "2": 3820,
+        "3-5": 3786,
+        "6-10": 1390,
+        "11-25": 679,
+        "26+": 169
+      }
+    },
+    "all": {
+      "n_nodes": 52369,
+      "remixed_at_least_once": 19885,
+      "base_rate_remixed_once": 0.3797,
+      "spawned_further_remix": 8564,
+      "base_rate_spawned_further": 0.1635,
+      "remixes_received_histogram": {
+        "0": 32484,
+        "1": 9577,
+        "2": 4010,
+        "3-5": 3966,
+        "6-10": 1450,
+        "11-25": 702,
+        "26+": 180
+      }
+    }
+  },
+  "variants": {
+    "local": {
+      "n_nodes": 51486,
+      "n_edges": 59186,
+      "remixes_received": {
+        "counts_head": {
+          "0": 32720,
+          "1": 8922,
+          "2": 3820,
+          "3": 1959,
+          "4": 1125,
+          "5": 702,
+          "6": 467,
+          "7": 340,
+          "8": 222,
+          "9": 202,
+          "10": 159,
+          "11": 111,
+          "12": 88,
+          "13": 95,
+          "14": 59
+        },
+        "max": 493,
+        "mean": 1.1496,
+        "share_zero": 0.6355
+      },
+      "sources_used": {
+        "counts_head": {
+          "0": 20258,
+          "1": 20344,
+          "2": 5185,
+          "3": 2233,
+          "4": 1298,
+          "5": 812,
+          "6": 478,
+          "7": 292,
+          "8": 164,
+          "9": 108,
+          "10": 78,
+          "11": 56,
+          "12": 37,
+          "13": 28,
+          "14": 25
+        },
+        "max": 195,
+        "mean": 1.1496,
+        "share_zero": 0.3935
+      },
+      "is_dag": true,
+      "cascade_depth_distribution": {
+        "0": 20258,
+        "1": 23824,
+        "2": 4744,
+        "3": 1547,
+        "4": 666,
+        "5": 248,
+        "6": 112,
+        "7": 45,
+        "8": 29,
+        "9": 10,
+        "10": 3
+      },
+      "max_cascade_depth": 10,
+      "n_components": 9797,
+      "largest_component": 39280
+    },
+    "all": {
+      "n_nodes": 52369,
+      "n_edges": 62300,
+      "remixes_received": {
+        "counts_head": {
+          "0": 32484,
+          "1": 9577,
+          "2": 4010,
+          "3": 2064,
+          "4": 1166,
+          "5": 736,
+          "6": 490,
+          "7": 353,
+          "8": 228,
+          "9": 210,
+          "10": 169,
+          "11": 113,
+          "12": 91,
+          "13": 99,
+          "14": 61
+        },
+        "max": 493,
+        "mean": 1.1896,
+        "share_zero": 0.6203
+      },
+      "sources_used": {
+        "counts_head": {
+          "0": 19588,
+          "1": 21097,
+          "2": 5443,
+          "3": 2698,
+          "4": 1336,
+          "5": 823,
+          "6": 479,
+          "7": 303,
+          "8": 174,
+          "9": 106,
+          "10": 81,
+          "11": 55,
+          "12": 42,
+          "13": 29,
+          "14": 25
+        },
+        "max": 196,
+        "mean": 1.1896,
+        "share_zero": 0.374
+      },
+      "is_dag": true,
+      "cascade_depth_distribution": {
+        "0": 19588,
+        "1": 24914,
+        "2": 5046,
+        "3": 1630,
+        "4": 693,
+        "5": 273,
+        "6": 128,
+        "7": 51,
+        "8": 32,
+        "9": 11,
+        "10": 3
+      },
+      "max_cascade_depth": 10,
+      "n_components": 8489,
+      "largest_component": 41422
+    }
+  }
+}

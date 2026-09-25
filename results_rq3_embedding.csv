@@ -1,0 +1,9 @@
+negatives,method,MRR,MRR_lo,MRR_hi,H1,H5,H10
+recent,popularity,0.3092,0.2997,0.3189,0.2024,0.3914,0.5201
+recent,embedding-only,0.0895,0.0856,0.0938,0.021,0.098,0.1809
+recent,base (=06 model),0.3715,0.3618,0.381,0.237,0.4998,0.6578
+recent,base+embedding,0.3683,0.3585,0.3775,0.234,0.4979,0.6546
+agematched,popularity,0.2505,0.2429,0.259,0.1276,0.3533,0.5139
+agematched,embedding-only,0.0905,0.0864,0.0946,0.0215,0.0984,0.1922
+agematched,base (=06 model),0.3448,0.3364,0.3535,0.1946,0.5,0.6745
+agematched,base+embedding,0.3443,0.336,0.3529,0.1931,0.5037,0.6738

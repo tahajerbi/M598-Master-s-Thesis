@@ -1,0 +1,1295 @@
+[
+  {
+    "upload_id": 71041,
+    "upload_name_chop": "Reduce to Supersonic",
+    "file_page_url": "https://ccmixter.org/files/admiralbob77/71041",
+    "user_avatar_url": "https://ccmixter.org/content/admiralbob77/IMG_039093x94.jpg",
+    "user_real_name": "Admiral Bob",
+    "user_name": "admiralbob77",
+    "upload_num_scores": 5,
+    "upload_extra": {
+      "usertags": "electronic,rock,guitar,funky,hip_hop",
+      "ccud": "media,remix,bpm_100_105,ccplus,how_i_did_it",
+      "systags": "non_commercial,audio,mp3,44k,stereo,VBR",
+      "bpm": 100,
+      "relative_dir": "content/admiralbob77",
+      "featuring": "apoxode",
+      "ccplus": true,
+      "nsfw": false,
+      "howididit": {
+        "tools": "A Korg NanoKey, a Yamaha P125 piano, an Alesis drum pad, GarageBand, Audacity, a Fender Telecaster",
+        "samples": "apoxode posted a huge anthology mix of a whole pile of people, but it was cohesive and funky (in a swift way.)",
+        "origial": "drum additions, a saw lead on the synth, an organ part, a guitar part.",
+        "process": "I slowed the original down to 100 bpm and pitched it down from G to D. Then I cut it up a bit, and played a drum part between the cuts and in the quieter parts. It is a bit of a counter beat, tugging it to 100 BPM on the 1 when it doesn't necessarily want to be. \r\n\r\nI added the saw lead, and then filled in the holes with guitar and organ bits.",
+        "other": ""
+      },
+      "num_reviews": 2
+    },
+    "thumbs_up": 1,
+    "ratings_enabled": 1,
+    "artist_page_url": "https://ccmixter.org/people/admiralbob77",
+    "license_logo_url": "https://ccmixter.org/ccskins/shared/images/lics/small-by-nc-3.png",
+    "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "license_name": "Attribution Noncommercial (4.0)",
+    "reviews_url": "https://ccmixter.org/reviews/admiralbob77/71041",
+    "stream_url": "https://ccmixter.org/api/query/stream.m3u?f=m3u&ids=71041",
+    "upload_date_format": "Mon, Jul 20, 2026 @ 9:30 PM",
+    "upload_name": "Reduce to Supersonic",
+    "upload_num_sources": 1,
+    "files": [
+      {
+        "file_id": 129782,
+        "file_upload": 71041,
+        "file_name": "admiralbob77_-_Reduce_to_Supersonic.mp3",
+        "file_nicname": "mp3",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "2:07",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "sha1": "6VQ3442SHIIYBQMHZF27SHTKLUFHT2ML"
+        },
+        "file_filesize": " (4.90MB)",
+        "file_order": 0,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/admiralbob77/admiralbob77_-_Reduce_to_Supersonic.mp3",
+        "local_path": "/var/www/ccmixter/content/admiralbob77/admiralbob77_-_Reduce_to_Supersonic.mp3",
+        "file_rawsize": 5136596
+      }
+    ],
+    "download_url": "https://ccmixter.org/content/admiralbob77/admiralbob77_-_Reduce_to_Supersonic.mp3",
+    "num_files": 1,
+    "remix_parents": [
+      {
+        "upload_id": 71040,
+        "file_page_url": "https://ccmixter.org/files/Apoxode/71040",
+        "upload_name": "Jump to Hyperspeed",
+        "artist_page_url": "https://ccmixter.org/people/Apoxode",
+        "user_real_name": "Apoxode"
+      }
+    ],
+    "usertag_links": [
+      {
+        "tagurl": "https://ccmixter.org/tags/media",
+        "tag": "media"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/remix",
+        "tag": "remix"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/bpm_100_105",
+        "tag": "bpm_100_105"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/ccplus",
+        "tag": "ccplus"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/how_i_did_it",
+        "tag": "how_i_did_it"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/electronic",
+        "tag": "electronic"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/rock",
+        "tag": "rock"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/guitar",
+        "tag": "guitar"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/funky",
+        "tag": "funky"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/hip_hop",
+        "tag": "hip_hop"
+      }
+    ],
+    "fplay_url": "https://ccmixter.org/content/admiralbob77/admiralbob77_-_Reduce_to_Supersonic.mp3"
+  },
+  {
+    "upload_id": 71040,
+    "upload_name_chop": "Jump to Hyperspeed",
+    "file_page_url": "https://ccmixter.org/files/Apoxode/71040",
+    "user_avatar_url": "https://ccmixter.org/content/Apoxode/logo12-anim93x9493x94.gif",
+    "user_real_name": "Apoxode",
+    "user_name": "Apoxode",
+    "upload_num_scores": 5,
+    "upload_extra": {
+      "usertags": "breaks,techno,rave",
+      "ccud": "media,remix,bpm_150_155,ccplus",
+      "systags": "non_commercial,audio,mp3,44k,stereo,CBR",
+      "bpm": 150,
+      "relative_dir": "content/Apoxode",
+      "featuring": "Admiral Bob, Doxent Zsigmond, Copperhead, martinsea, mwic, Madam Snowflake, Martijn de Boer, cdk, Stefan Kartenberg, Darkroom, Vidian, Kraftamt, Alex, fluffy",
+      "nsfw": false,
+      "ccplus": true,
+      "num_reviews": 3
+    },
+    "thumbs_up": 1,
+    "ratings_enabled": 1,
+    "artist_page_url": "https://ccmixter.org/people/Apoxode",
+    "license_logo_url": "https://ccmixter.org/ccskins/shared/images/lics/small-by-nc-3.png",
+    "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "license_name": "Attribution Noncommercial (4.0)",
+    "reviews_url": "https://ccmixter.org/reviews/Apoxode/71040",
+    "stream_url": "https://ccmixter.org/api/query/stream.m3u?f=m3u&ids=71040",
+    "upload_date_format": "Mon, Jul 20, 2026 @ 4:11 PM",
+    "upload_name": "Jump to Hyperspeed",
+    "upload_num_remixes": 1,
+    "upload_num_sources": 18,
+    "files": [
+      {
+        "file_id": 129781,
+        "file_upload": 71040,
+        "file_name": "Apoxode_-_Jump_to_Hyperspeed_1.mp3",
+        "file_nicname": "mp3",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "6:32",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "sha1": "GGRZNVDCQJBRW5GSQ5CDFTKRC52TFJ54"
+        },
+        "file_filesize": " (8.98MB)",
+        "file_order": 0,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/Apoxode/Apoxode_-_Jump_to_Hyperspeed_1.mp3",
+        "local_path": "/var/www/ccmixter/content/Apoxode/Apoxode_-_Jump_to_Hyperspeed_1.mp3",
+        "file_rawsize": 9415828
+      }
+    ],
+    "download_url": "https://ccmixter.org/content/Apoxode/Apoxode_-_Jump_to_Hyperspeed_1.mp3",
+    "num_files": 1,
+    "remix_parents": [
+      {
+        "upload_id": 23715,
+        "file_page_url": "https://ccmixter.org/files/fluffy/23715",
+        "upload_name": "Sorry to Inform You",
+        "artist_page_url": "https://ccmixter.org/people/fluffy",
+        "user_real_name": "fluffy"
+      },
+      {
+        "upload_id": 30344,
+        "file_page_url": "https://ccmixter.org/files/AlexBeroza/30344",
+        "upload_name": "Art Now",
+        "artist_page_url": "https://ccmixter.org/people/AlexBeroza",
+        "user_real_name": "Alex"
+      },
+      {
+        "upload_id": 52275,
+        "file_page_url": "https://ccmixter.org/files/Vidian/52275",
+        "upload_name": "Unseen",
+        "artist_page_url": "https://ccmixter.org/people/Vidian",
+        "user_real_name": "Vidian"
+      }
+    ],
+    "more_parents_link": "https://ccmixter.org/files/Apoxode/71040",
+    "remix_children": [
+      {
+        "upload_id": 71041,
+        "file_page_url": "https://ccmixter.org/files/admiralbob77/71041",
+        "upload_name": "Reduce to Supers...",
+        "artist_page_url": "https://ccmixter.org/people/admiralbob77",
+        "user_real_name": "Admiral Bob"
+      }
+    ],
+    "usertag_links": [
+      {
+        "tagurl": "https://ccmixter.org/tags/media",
+        "tag": "media"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/remix",
+        "tag": "remix"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/bpm_150_155",
+        "tag": "bpm_150_155"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/ccplus",
+        "tag": "ccplus"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/breaks",
+        "tag": "breaks"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/techno",
+        "tag": "techno"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/rave",
+        "tag": "rave"
+      }
+    ],
+    "fplay_url": "https://ccmixter.org/content/Apoxode/Apoxode_-_Jump_to_Hyperspeed_1.mp3"
+  },
+  {
+    "upload_id": 71038,
+    "upload_name_chop": "It's the Statin Skank",
+    "file_page_url": "https://ccmixter.org/files/Dimensional_Pulse/71038",
+    "user_avatar_url": "https://ccmixter.org/content/Dimensional_Pulse/ccmixterlogo93x94.jpg",
+    "user_real_name": "Dreamonizer",
+    "user_name": "Dimensional_Pulse",
+    "upload_num_scores": 3,
+    "upload_extra": {
+      "usertags": "ska,skank,physical_modeled_synths,rocksteady,humor,offbeat,drums,guitar,bass,hammond,percussion,brass,male_vocals",
+      "ccud": "media,remix,bpm_090_095",
+      "systags": "non_commercial,audio,mp3,48k,stereo,CBR,audio,flac,48k,stereo,VBR,audio,flac,48k,stereo,VBR,archive,zip,archive,zip",
+      "bpm": 90,
+      "relative_dir": "content/Dimensional_Pulse",
+      "featuring": "Frank Adipose amd James Gracilis",
+      "nsfw": false,
+      "last_op": "add",
+      "num_reviews": 2
+    },
+    "thumbs_up": 1,
+    "ratings_enabled": 1,
+    "artist_page_url": "https://ccmixter.org/people/Dimensional_Pulse",
+    "license_logo_url": "https://ccmixter.org/ccskins/shared/images/lics/small-by-nc-3.png",
+    "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "license_name": "Attribution Noncommercial (4.0)",
+    "reviews_url": "https://ccmixter.org/reviews/Dimensional_Pulse/71038",
+    "stream_url": "https://ccmixter.org/api/query/stream.m3u?f=m3u&ids=71038",
+    "upload_date_format": "Mon, Jul 20, 2026 @ 5:33 AM",
+    "upload_name": "It's the Statin Skank",
+    "upload_num_sources": 1,
+    "files": [
+      {
+        "file_id": 129768,
+        "file_upload": 71038,
+        "file_name": "Dimensional_Pulse_-_It_s_the_Statin_Skank_1.mp3",
+        "file_nicname": "mp3",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "48k",
+          "ch": "stereo",
+          "ps": "4:49",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "sha1": "LORJOE5KJ24QHS4UW44JM5KCH3B34LSR"
+        },
+        "file_filesize": " (4.41MB)",
+        "file_order": 0,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/Dimensional_Pulse/Dimensional_Pulse_-_It_s_the_Statin_Skank_1.mp3",
+        "local_path": "/var/www/ccmixter/content/Dimensional_Pulse/Dimensional_Pulse_-_It_s_the_Statin_Skank_1.mp3",
+        "file_rawsize": 4629120
+      },
+      {
+        "file_id": 129769,
+        "file_upload": 71038,
+        "file_name": "Dimensional_Pulse_-_It_s_the_Statin_Skank_2.flac",
+        "file_nicname": "Altnerate File Format",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "48k",
+          "ch": "stereo",
+          "ps": "4:49",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "multiple_formats",
+          "type": "multiple_formats",
+          "sha1": "KWTNTDO5RDY7L7U3Q6LF5M2BULSRQ6KT"
+        },
+        "file_filesize": " (34.59MB)",
+        "file_order": 1,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/Dimensional_Pulse/Dimensional_Pulse_-_It_s_the_Statin_Skank_2.flac",
+        "local_path": "/var/www/ccmixter/content/Dimensional_Pulse/Dimensional_Pulse_-_It_s_the_Statin_Skank_2.flac",
+        "file_rawsize": 36273080
+      },
+      {
+        "file_id": 129770,
+        "file_upload": 71038,
+        "file_name": "Dimensional_Pulse_-_It_s_the_Statin_Skank.flac",
+        "file_nicname": "Instrumental",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "48k",
+          "ch": "stereo",
+          "ps": "4:49",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "alternate",
+          "type": "alternate",
+          "sha1": "MSBXBYGSKYYQQHPACTT3DX3CQYSMJ26U"
+        },
+        "file_filesize": " (33.07MB)",
+        "file_order": 2,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/Dimensional_Pulse/Dimensional_Pulse_-_It_s_the_Statin_Skank.flac",
+        "local_path": "/var/www/ccmixter/content/Dimensional_Pulse/Dimensional_Pulse_-_It_s_the_Statin_Skank.flac",
+        "file_rawsize": 34677742
+      },
+      {
+        "file_id": 129771,
+        "file_upload": 71038,
+        "file_name": "Dimensional_Pulse_-_It_s_the_Statin_Skank_2.zip",
+        "file_nicname": "Stems 1",
+        "file_format_info": {
+          "media-type": "archive",
+          "format-name": "archive-zip-",
+          "default-ext": "zip",
+          "mime_type": "application/zip",
+          "zipdir": {
+            "files": [
+              "/It's the Statin Skank - Conga's.mp3  (11.03MB)",
+              "/It's the Statin Skank - Cymbal.mp3  (11.03MB)",
+              "/It's the Statin Skank - Bass Guitar.mp3  (11.03MB)",
+              "/It's the Statin Skank - BassDrum.mp3  (11.03MB)",
+              "/It's the Statin Skank - Bongo's.mp3  (11.03MB)",
+              "/It's the Statin Skank - Brass 1.mp3  (11.03MB)",
+              "/It's the Statin Skank - Brass 2.mp3  (11.03MB)",
+              "/It's the Statin Skank - Brass 3.mp3  (11.03MB)"
+            ]
+          }
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "JQRE4WP4VGP25RQJYGOS3V6QSULHWQTI"
+        },
+        "file_filesize": " (74.00MB)",
+        "file_order": 3,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/Dimensional_Pulse/Dimensional_Pulse_-_It_s_the_Statin_Skank_2.zip",
+        "local_path": "/var/www/ccmixter/content/Dimensional_Pulse/Dimensional_Pulse_-_It_s_the_Statin_Skank_2.zip",
+        "file_rawsize": 77592792
+      },
+      {
+        "file_id": 129772,
+        "file_upload": 71038,
+        "file_name": "Dimensional_Pulse_-_It_s_the_Statin_Skank.zip",
+        "file_nicname": "Stems 2",
+        "file_format_info": {
+          "media-type": "archive",
+          "format-name": "archive-zip-",
+          "default-ext": "zip",
+          "mime_type": "application/zip",
+          "zipdir": {
+            "files": [
+              "/It's the Statin Skank - Snares.mp3  (11.03MB)",
+              "/It's the Statin Skank - Timbales.mp3  (11.03MB)",
+              "/It's the Statin Skank - Toms.mp3  (11.03MB)",
+              "/It's the Statin Skank - Guitar Skank.mp3  (11.03MB)",
+              "/It's the Statin Skank - Hammond High Skank and Pad.mp3  (11.03MB)",
+              "/It's the Statin Skank - Hammond Low Skank.mp3  (11.03MB)",
+              "/It's the Statin Skank - HiHats.mp3  (11.03MB)"
+            ]
+          }
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "V6HWUZTJLJEDX2SMIJVWN77AVBWBPNR4"
+        },
+        "file_filesize": " (58.25MB)",
+        "file_order": 4,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/Dimensional_Pulse/Dimensional_Pulse_-_It_s_the_Statin_Skank.zip",
+        "local_path": "/var/www/ccmixter/content/Dimensional_Pulse/Dimensional_Pulse_-_It_s_the_Statin_Skank.zip",
+        "file_rawsize": 61080700
+      }
+    ],
+    "download_url": "https://ccmixter.org/content/Dimensional_Pulse/Dimensional_Pulse_-_It_s_the_Statin_Skank_1.mp3",
+    "num_files": 5,
+    "remix_parents": [
+      {
+        "upload_id": 71018,
+        "file_page_url": "https://ccmixter.org/files/Frank_Adipose/71018",
+        "upload_name": "Its The Statin S...",
+        "artist_page_url": "https://ccmixter.org/people/Frank_Adipose",
+        "user_real_name": "Frank Adipo..."
+      }
+    ],
+    "usertag_links": [
+      {
+        "tagurl": "https://ccmixter.org/tags/media",
+        "tag": "media"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/remix",
+        "tag": "remix"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/bpm_090_095",
+        "tag": "bpm_090_095"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/ska",
+        "tag": "ska"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/skank",
+        "tag": "skank"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/physical_modeled_synths",
+        "tag": "physical_modeled_synths"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/rocksteady",
+        "tag": "rocksteady"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/humor",
+        "tag": "humor"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/offbeat",
+        "tag": "offbeat"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/drums",
+        "tag": "drums"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/guitar",
+        "tag": "guitar"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/bass",
+        "tag": "bass"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/hammond",
+        "tag": "hammond"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/percussion",
+        "tag": "percussion"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/brass",
+        "tag": "brass"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/male_vocals",
+        "tag": "male_vocals"
+      }
+    ],
+    "fplay_url": "https://ccmixter.org/content/Dimensional_Pulse/Dimensional_Pulse_-_It_s_the_Statin_Skank_1.mp3"
+  },
+  {
+    "upload_id": 71037,
+    "upload_name_chop": "Imposition",
+    "file_page_url": "https://ccmixter.org/files/bblohowiak/71037",
+    "user_avatar_url": "https://ccmixter.org/content/bblohowiak/2024-07-04_10.05.14_copy93x94.jpeg",
+    "user_real_name": "Ben Blohowiak",
+    "user_name": "bblohowiak",
+    "upload_num_scores": 6,
+    "upload_extra": {
+      "usertags": "instrumental,electronic,alternative,drums,bass,synthesizer,experimental,piano,downtempo,music_for_film",
+      "ccud": "media,remix,bpm_070_075",
+      "systags": "non_commercial,audio,mp3,44k,stereo,CBR,audio,flac,44k,stereo,VBR,audio,flac,44k,stereo,VBR,audio,flac,44k,stereo,VBR,audio,flac,44k,stereo,VBR,audio,flac,44k,stereo,VBR,audio,flac,44k,stereo,VBR,audio,flac,44k,stereo,VBR,audio,flac,44k,stereo,VBR,audio,flac,44k,stereo,VBR",
+      "relative_dir": "content/bblohowiak",
+      "bpm": 71,
+      "featuring": "",
+      "nsfw": false,
+      "last_op": "add",
+      "num_reviews": 3
+    },
+    "thumbs_up": 1,
+    "ratings_enabled": 1,
+    "artist_page_url": "https://ccmixter.org/people/bblohowiak",
+    "license_logo_url": "https://ccmixter.org/ccskins/shared/images/lics/small-by-nc-3.png",
+    "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "license_name": "Attribution Noncommercial (4.0)",
+    "reviews_url": "https://ccmixter.org/reviews/bblohowiak/71037",
+    "stream_url": "https://ccmixter.org/api/query/stream.m3u?f=m3u&ids=71037",
+    "upload_date_format": "Sun, Jul 19, 2026 @ 12:30 PM",
+    "upload_name": "Imposition",
+    "upload_num_sources": 1,
+    "files": [
+      {
+        "file_id": 129758,
+        "file_upload": 71037,
+        "file_name": "bblohowiak_-_Imposition_1.mp3",
+        "file_nicname": "mp3",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "3:43",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "sha1": "RRFNKFTNKNRY3NVVKKCOG7J6ME55HJEU"
+        },
+        "file_filesize": " (5.10MB)",
+        "file_order": 0,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/bblohowiak/bblohowiak_-_Imposition_1.mp3",
+        "local_path": "/var/www/ccmixter/content/bblohowiak/bblohowiak_-_Imposition_1.mp3",
+        "file_rawsize": 5352639
+      },
+      {
+        "file_id": 129759,
+        "file_upload": 71037,
+        "file_name": "bblohowiak_-_Imposition_1.flac",
+        "file_nicname": "Manipulated Zenboy1955",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "3:37",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "6WHR7NNDUVAB6NLGZ6UUDPM5ITFT4DUY"
+        },
+        "file_filesize": " (14.33MB)",
+        "file_order": 1,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/bblohowiak/bblohowiak_-_Imposition_1.flac",
+        "local_path": "/var/www/ccmixter/content/bblohowiak/bblohowiak_-_Imposition_1.flac",
+        "file_rawsize": 15030425
+      },
+      {
+        "file_id": 129760,
+        "file_upload": 71037,
+        "file_name": "bblohowiak_-_Imposition.flac",
+        "file_nicname": "Bass",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "3:41",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "UMV44RSWUAH7VADINYYV2AEPCGCTM5DQ"
+        },
+        "file_filesize": " (6.94MB)",
+        "file_order": 2,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/bblohowiak/bblohowiak_-_Imposition.flac",
+        "local_path": "/var/www/ccmixter/content/bblohowiak/bblohowiak_-_Imposition.flac",
+        "file_rawsize": 7278901
+      },
+      {
+        "file_id": 129761,
+        "file_upload": 71037,
+        "file_name": "bblohowiak_-_Imposition_2.flac",
+        "file_nicname": "Clarinet",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "3:37",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "4SILIWUYKNJHTKLP3MKO4SNWCSOEJ6ZW"
+        },
+        "file_filesize": " (6.55MB)",
+        "file_order": 3,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/bblohowiak/bblohowiak_-_Imposition_2.flac",
+        "local_path": "/var/www/ccmixter/content/bblohowiak/bblohowiak_-_Imposition_2.flac",
+        "file_rawsize": 6869652
+      },
+      {
+        "file_id": 129762,
+        "file_upload": 71037,
+        "file_name": "bblohowiak_-_Imposition_3.flac",
+        "file_nicname": "French Horns",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "3:37",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "NO7PQUPSBJNK37WTX52AOYENX5B423GO"
+        },
+        "file_filesize": " (7.01MB)",
+        "file_order": 4,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/bblohowiak/bblohowiak_-_Imposition_3.flac",
+        "local_path": "/var/www/ccmixter/content/bblohowiak/bblohowiak_-_Imposition_3.flac",
+        "file_rawsize": 7353159
+      },
+      {
+        "file_id": 129763,
+        "file_upload": 71037,
+        "file_name": "bblohowiak_-_Imposition_4.flac",
+        "file_nicname": "Percussion01",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "3:37",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "KJKOQDFIQ7XIDY5IWR4GYF5BDLQIRI2C"
+        },
+        "file_filesize": " (11.44MB)",
+        "file_order": 5,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/bblohowiak/bblohowiak_-_Imposition_4.flac",
+        "local_path": "/var/www/ccmixter/content/bblohowiak/bblohowiak_-_Imposition_4.flac",
+        "file_rawsize": 11996374
+      },
+      {
+        "file_id": 129764,
+        "file_upload": 71037,
+        "file_name": "bblohowiak_-_Imposition_5.flac",
+        "file_nicname": "Percussion02",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "3:37",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "O76LLNWFXMEEI2VTHXB5SI4XQCKPUZG4"
+        },
+        "file_filesize": " (8.99MB)",
+        "file_order": 6,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/bblohowiak/bblohowiak_-_Imposition_5.flac",
+        "local_path": "/var/www/ccmixter/content/bblohowiak/bblohowiak_-_Imposition_5.flac",
+        "file_rawsize": 9429149
+      },
+      {
+        "file_id": 129765,
+        "file_upload": 71037,
+        "file_name": "bblohowiak_-_Imposition_6.flac",
+        "file_nicname": "Piano",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "3:38",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "E7MYFPI64DSFQ6PK6FHVPNR4M6WR6II5"
+        },
+        "file_filesize": " (8.97MB)",
+        "file_order": 7,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/bblohowiak/bblohowiak_-_Imposition_6.flac",
+        "local_path": "/var/www/ccmixter/content/bblohowiak/bblohowiak_-_Imposition_6.flac",
+        "file_rawsize": 9401210
+      },
+      {
+        "file_id": 129766,
+        "file_upload": 71037,
+        "file_name": "bblohowiak_-_Imposition_7.flac",
+        "file_nicname": "Synths",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "3:37",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "IVJVZYX33MJ3FIOMXCV2EKMS7P63IWUT"
+        },
+        "file_filesize": " (7.35MB)",
+        "file_order": 8,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/bblohowiak/bblohowiak_-_Imposition_7.flac",
+        "local_path": "/var/www/ccmixter/content/bblohowiak/bblohowiak_-_Imposition_7.flac",
+        "file_rawsize": 7706691
+      },
+      {
+        "file_id": 129767,
+        "file_upload": 71037,
+        "file_name": "bblohowiak_-_Imposition_8.flac",
+        "file_nicname": "Vibes",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "3:37",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "EAC3BQONJSJQ56J6GKWD7YOKDRSCRJ6C"
+        },
+        "file_filesize": " (7.31MB)",
+        "file_order": 9,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/bblohowiak/bblohowiak_-_Imposition_8.flac",
+        "local_path": "/var/www/ccmixter/content/bblohowiak/bblohowiak_-_Imposition_8.flac",
+        "file_rawsize": 7662708
+      }
+    ],
+    "download_url": "https://ccmixter.org/content/bblohowiak/bblohowiak_-_Imposition_1.mp3",
+    "num_files": 10,
+    "remix_parents": [
+      {
+        "upload_id": 71021,
+        "file_page_url": "https://ccmixter.org/files/Zenboy1955/71021",
+        "upload_name": "Superimposed",
+        "artist_page_url": "https://ccmixter.org/people/Zenboy1955",
+        "user_real_name": "Zenboy1955"
+      }
+    ],
+    "usertag_links": [
+      {
+        "tagurl": "https://ccmixter.org/tags/media",
+        "tag": "media"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/remix",
+        "tag": "remix"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/bpm_070_075",
+        "tag": "bpm_070_075"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/instrumental",
+        "tag": "instrumental"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/electronic",
+        "tag": "electronic"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/alternative",
+        "tag": "alternative"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/drums",
+        "tag": "drums"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/bass",
+        "tag": "bass"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/synthesizer",
+        "tag": "synthesizer"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/experimental",
+        "tag": "experimental"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/piano",
+        "tag": "piano"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/downtempo",
+        "tag": "downtempo"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/music_for_film",
+        "tag": "music_for_film"
+      }
+    ],
+    "fplay_url": "https://ccmixter.org/content/bblohowiak/bblohowiak_-_Imposition_1.mp3"
+  },
+  {
+    "upload_id": 71036,
+    "upload_name_chop": "Sad Electric Tale",
+    "file_page_url": "https://ccmixter.org/files/jaspertine/71036",
+    "user_avatar_url": "https://ccmixter.org/content/jaspertine/profile2_copy93x94.jpg",
+    "user_real_name": "jaspertine",
+    "user_name": "jaspertine",
+    "upload_num_scores": 2,
+    "upload_extra": {
+      "usertags": "jaspertine,instrumental,alternative,drums,guitar,bass",
+      "ccud": "sample,media,bpm_120_125",
+      "systags": "attribution,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR",
+      "bpm": 124,
+      "relative_dir": "content/jaspertine",
+      "featuring": "",
+      "nsfw": false,
+      "last_op": "add"
+    },
+    "thumbs_up": 1,
+    "ratings_enabled": 1,
+    "artist_page_url": "https://ccmixter.org/people/jaspertine",
+    "license_logo_url": "https://ccmixter.org/ccskins/shared/images/lics/small-by-3.png",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "license_name": "Attribution (4.0)",
+    "reviews_url": "https://ccmixter.org/reviews/jaspertine/71036",
+    "stream_url": "https://ccmixter.org/api/query/stream.m3u?f=m3u&ids=71036",
+    "upload_date_format": "Sat, Jul 18, 2026 @ 6:43 PM",
+    "upload_name": "Sad Electric Tale",
+    "files": [
+      {
+        "file_id": 129746,
+        "file_upload": 71036,
+        "file_name": "jaspertine_-_Sad_Electric_Tale_12.mp3",
+        "file_nicname": "mp3",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:28",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "sha1": "JDGELH6DIBKUFNN2DJ7KXP6ZMKRBT5S3"
+        },
+        "file_filesize": " (10.23MB)",
+        "file_order": 0,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/jaspertine/jaspertine_-_Sad_Electric_Tale_12.mp3",
+        "local_path": "/var/www/ccmixter/content/jaspertine/jaspertine_-_Sad_Electric_Tale_12.mp3",
+        "file_rawsize": 10726966
+      },
+      {
+        "file_id": 129747,
+        "file_upload": 71036,
+        "file_name": "jaspertine_-_Sad_Electric_Tale.mp3",
+        "file_nicname": "Bass",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:28",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "DVL36M7ASTAUD3XW2DDU25XZW4OXOXO4"
+        },
+        "file_filesize": " (10.23MB)",
+        "file_order": 1,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/jaspertine/jaspertine_-_Sad_Electric_Tale.mp3",
+        "local_path": "/var/www/ccmixter/content/jaspertine/jaspertine_-_Sad_Electric_Tale.mp3",
+        "file_rawsize": 10726966
+      },
+      {
+        "file_id": 129748,
+        "file_upload": 71036,
+        "file_name": "jaspertine_-_Sad_Electric_Tale_1.mp3",
+        "file_nicname": "Drums 1",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:28",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "HBEBDT4NT3676NVB6U4XB5CL6ET4ARFX"
+        },
+        "file_filesize": " (10.23MB)",
+        "file_order": 2,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/jaspertine/jaspertine_-_Sad_Electric_Tale_1.mp3",
+        "local_path": "/var/www/ccmixter/content/jaspertine/jaspertine_-_Sad_Electric_Tale_1.mp3",
+        "file_rawsize": 10726966
+      },
+      {
+        "file_id": 129749,
+        "file_upload": 71036,
+        "file_name": "jaspertine_-_Sad_Electric_Tale_2.mp3",
+        "file_nicname": "Drums 2",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:28",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "CAET5TSS4QR7N7VW7KUYKQY5YFR6HUM7"
+        },
+        "file_filesize": " (10.23MB)",
+        "file_order": 3,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/jaspertine/jaspertine_-_Sad_Electric_Tale_2.mp3",
+        "local_path": "/var/www/ccmixter/content/jaspertine/jaspertine_-_Sad_Electric_Tale_2.mp3",
+        "file_rawsize": 10726966
+      },
+      {
+        "file_id": 129750,
+        "file_upload": 71036,
+        "file_name": "jaspertine_-_Sad_Electric_Tale_3.mp3",
+        "file_nicname": "Guitar C",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:28",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "5AHI7PVHNHU3VI4W6N25CBT4CHCBPTBO"
+        },
+        "file_filesize": " (10.23MB)",
+        "file_order": 4,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/jaspertine/jaspertine_-_Sad_Electric_Tale_3.mp3",
+        "local_path": "/var/www/ccmixter/content/jaspertine/jaspertine_-_Sad_Electric_Tale_3.mp3",
+        "file_rawsize": 10726966
+      },
+      {
+        "file_id": 129751,
+        "file_upload": 71036,
+        "file_name": "jaspertine_-_Sad_Electric_Tale_4.mp3",
+        "file_nicname": "Guitar L",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:28",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "KCPXXGF76ZD6QGOVK6N2CMEFTXSKDC4X"
+        },
+        "file_filesize": " (10.23MB)",
+        "file_order": 5,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/jaspertine/jaspertine_-_Sad_Electric_Tale_4.mp3",
+        "local_path": "/var/www/ccmixter/content/jaspertine/jaspertine_-_Sad_Electric_Tale_4.mp3",
+        "file_rawsize": 10726966
+      },
+      {
+        "file_id": 129752,
+        "file_upload": 71036,
+        "file_name": "jaspertine_-_Sad_Electric_Tale_5.mp3",
+        "file_nicname": "Guitar L",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:28",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "E4ZZWBVQAWO4ANWR3PXIGQV4S7KNXKSC"
+        },
+        "file_filesize": " (10.23MB)",
+        "file_order": 6,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/jaspertine/jaspertine_-_Sad_Electric_Tale_5.mp3",
+        "local_path": "/var/www/ccmixter/content/jaspertine/jaspertine_-_Sad_Electric_Tale_5.mp3",
+        "file_rawsize": 10726966
+      },
+      {
+        "file_id": 129753,
+        "file_upload": 71036,
+        "file_name": "jaspertine_-_Sad_Electric_Tale_6.mp3",
+        "file_nicname": "Loop",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:28",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "QCMHGEEAZOMIKFMVP2KHXSEBKNFLWBAQ"
+        },
+        "file_filesize": " (10.23MB)",
+        "file_order": 7,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/jaspertine/jaspertine_-_Sad_Electric_Tale_6.mp3",
+        "local_path": "/var/www/ccmixter/content/jaspertine/jaspertine_-_Sad_Electric_Tale_6.mp3",
+        "file_rawsize": 10726966
+      },
+      {
+        "file_id": 129754,
+        "file_upload": 71036,
+        "file_name": "jaspertine_-_Sad_Electric_Tale_7.mp3",
+        "file_nicname": "Slide amb",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:28",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "6SO5QEXWPNO7CD3T6VOI4RNDP2CHQ72M"
+        },
+        "file_filesize": " (10.23MB)",
+        "file_order": 8,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/jaspertine/jaspertine_-_Sad_Electric_Tale_7.mp3",
+        "local_path": "/var/www/ccmixter/content/jaspertine/jaspertine_-_Sad_Electric_Tale_7.mp3",
+        "file_rawsize": 10726966
+      },
+      {
+        "file_id": 129755,
+        "file_upload": 71036,
+        "file_name": "jaspertine_-_Sad_Electric_Tale_8.mp3",
+        "file_nicname": "Slide Guitar",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:28",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "5YROKAHAICA23FHX3RM4MIXBKX46JBOF"
+        },
+        "file_filesize": " (10.23MB)",
+        "file_order": 9,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/jaspertine/jaspertine_-_Sad_Electric_Tale_8.mp3",
+        "local_path": "/var/www/ccmixter/content/jaspertine/jaspertine_-_Sad_Electric_Tale_8.mp3",
+        "file_rawsize": 10726966
+      },
+      {
+        "file_id": 129756,
+        "file_upload": 71036,
+        "file_name": "jaspertine_-_Sad_Electric_Tale_9.mp3",
+        "file_nicname": "Solo",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:28",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "WDIHHNY7SJENEBE6RJECNBZMO2ZPTKZJ"
+        },
+        "file_filesize": " (10.23MB)",
+        "file_order": 10,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/jaspertine/jaspertine_-_Sad_Electric_Tale_9.mp3",
+        "local_path": "/var/www/ccmixter/content/jaspertine/jaspertine_-_Sad_Electric_Tale_9.mp3",
+        "file_rawsize": 10726966
+      },
+      {
+        "file_id": 129757,
+        "file_upload": 71036,
+        "file_name": "jaspertine_-_Sad_Electric_Tale_10.mp3",
+        "file_nicname": "Synth",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:28",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "JDGUSKFAH7UER3JCGWOKO55K2DDSTQ7S"
+        },
+        "file_filesize": " (10.23MB)",
+        "file_order": 11,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/jaspertine/jaspertine_-_Sad_Electric_Tale_10.mp3",
+        "local_path": "/var/www/ccmixter/content/jaspertine/jaspertine_-_Sad_Electric_Tale_10.mp3",
+        "file_rawsize": 10726966
+      }
+    ],
+    "download_url": "https://ccmixter.org/content/jaspertine/jaspertine_-_Sad_Electric_Tale_12.mp3",
+    "num_files": 12,
+    "usertag_links": [
+      {
+        "tagurl": "https://ccmixter.org/tags/sample",
+        "tag": "sample"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/media",
+        "tag": "media"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/bpm_120_125",
+        "tag": "bpm_120_125"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/jaspertine",
+        "tag": "jaspertine"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/instrumental",
+        "tag": "instrumental"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/alternative",
+        "tag": "alternative"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/drums",
+        "tag": "drums"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/guitar",
+        "tag": "guitar"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/bass",
+        "tag": "bass"
+      }
+    ],
+    "fplay_url": "https://ccmixter.org/content/jaspertine/jaspertine_-_Sad_Electric_Tale_12.mp3"
+  }
+]

@@ -1,0 +1,375 @@
+[
+  {
+    "upload_tags": ",media,acappella,trackback,in_web,in_remix,sampling_plus,audio,mp3,44k,mono,128kbps,funky,jazz,male_vocals,organ,piano,rock,saxophone,",
+    "upload_published": 1,
+    "user_id": 19,
+    "upload_user": 19,
+    "upload_id": 67,
+    "upload_name": "Be Brave (Vocals)",
+    "upload_extra": {
+      "ccud": "media,acappella,trackback,in_web,in_remix",
+      "usertags": "funky,jazz,male_vocals,organ,piano,rock,saxophone",
+      "relative_dir": "content/norineb",
+      "bpm": 0,
+      "systags": "sampling_plus,audio,mp3,44k,mono,128kbps",
+      "num_reviews": 7
+    },
+    "file_page_url": "https://ccmixter.org/files/norineb/67",
+    "thumbs_up": 1,
+    "ratings_enabled": 1,
+    "user_real_name": "Norine Braun",
+    "user_name": "norineb",
+    "user_avatar_url": "https://ccmixter.org/content/norineb/norineb.jpg",
+    "upload_num_scores": 27,
+    "upload_score": 433,
+    "artist_page_url": "https://ccmixter.org/people/norineb",
+    "license_logo_url": "http://",
+    "license_url": "http://creativecommons.org/licenses/sampling+/1.0/",
+    "license_name": "Sampling Plus",
+    "license_permits": "Sharing,DerivativeWorks,Reproduction",
+    "license_required": "Attribution,Notice",
+    "year": 2004,
+    "upload_date": "Sat, Nov 6, 2004 @ 4:27 AM",
+    "files": [
+      {
+        "file_id": 1,
+        "file_upload": 67,
+        "file_name": "norineb_-_Be_Brave_(Vocals).mp3",
+        "file_nicname": "mp3",
+        "file_format_info": {
+          "sr": "44k",
+          "ch": "mono",
+          "ps": "2:40",
+          "br": "128kbps",
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg"
+        },
+        "file_extra": {
+          "port_path": "/web/ccmixter/www/people/norineb/norineb_-_Be_Brave_(Vocals).mp3"
+        },
+        "file_filesize": " (2.45MB)",
+        "file_order": 0,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/norineb/norineb_-_Be_Brave_(Vocals).mp3",
+        "local_path": "/var/www/ccmixter/content/norineb/norineb_-_Be_Brave_(Vocals).mp3",
+        "file_rawsize": 2564932
+      }
+    ],
+    "download_url": "https://ccmixter.org/content/norineb/norineb_-_Be_Brave_(Vocals).mp3",
+    "remix_children": [
+      {
+        "upload_id": 2468,
+        "file_page_url": "https://ccmixter.org/files/teru/2468",
+        "upload_name": "Be Brave-teru-remix",
+        "artist_page_url": "https://ccmixter.org/people/teru",
+        "user_real_name": "teru"
+      },
+      {
+        "upload_id": 2537,
+        "file_page_url": "https://ccmixter.org/files/coffeetrim/2537",
+        "upload_name": "Norine session -...",
+        "artist_page_url": "https://ccmixter.org/people/coffeetrim",
+        "user_real_name": "CoffeeTrim"
+      },
+      {
+        "upload_id": 2601,
+        "file_page_url": "https://ccmixter.org/files/zeos/2601",
+        "upload_name": "Be Brave (Dub-Tr...",
+        "artist_page_url": "https://ccmixter.org/people/zeos",
+        "user_real_name": "Antony Raij..."
+      },
+      {
+        "upload_id": 2658,
+        "file_page_url": "https://ccmixter.org/files/portable/2658",
+        "upload_name": "Giti",
+        "artist_page_url": "https://ccmixter.org/people/portable",
+        "user_real_name": "C.Portable"
+      },
+      {
+        "upload_id": 2691,
+        "file_page_url": "https://ccmixter.org/files/awkwardsilence/2691",
+        "upload_name": "be brave (daddy ...",
+        "artist_page_url": "https://ccmixter.org/people/awkwardsilence",
+        "user_real_name": "Comfortable..."
+      },
+      {
+        "upload_id": 2743,
+        "file_page_url": "https://ccmixter.org/files/k_2_d/2743",
+        "upload_name": "Be Brave (\"in th...",
+        "artist_page_url": "https://ccmixter.org/people/k_2_d",
+        "user_real_name": "k@2to"
+      },
+      {
+        "upload_id": 2964,
+        "file_page_url": "https://ccmixter.org/files/iwass/2964",
+        "upload_name": "In the name of L",
+        "artist_page_url": "https://ccmixter.org/people/iwass",
+        "user_real_name": "The fog soc..."
+      },
+      {
+        "upload_id": 3267,
+        "file_page_url": "https://ccmixter.org/files/sinq/3267",
+        "upload_name": "Be Brave [Sinq's...",
+        "artist_page_url": "https://ccmixter.org/people/sinq",
+        "user_real_name": "SinQ"
+      },
+      {
+        "upload_id": 3346,
+        "file_page_url": "https://ccmixter.org/files/gurdonark/3346",
+        "upload_name": "Behold a Republic",
+        "artist_page_url": "https://ccmixter.org/people/gurdonark",
+        "user_real_name": "gurdonark"
+      },
+      {
+        "upload_id": 3737,
+        "file_page_url": "https://ccmixter.org/files/shockshadow/3737",
+        "upload_name": "Braving the Rain",
+        "artist_page_url": "https://ccmixter.org/people/shockshadow",
+        "user_real_name": "shockshadow"
+      },
+      {
+        "upload_id": 3890,
+        "file_page_url": "https://ccmixter.org/files/EcHo2K/3890",
+        "upload_name": "In the name of love",
+        "artist_page_url": "https://ccmixter.org/people/EcHo2K",
+        "user_real_name": "EcHo2K"
+      },
+      {
+        "upload_id": 3961,
+        "file_page_url": "https://ccmixter.org/files/shagrugge/3961",
+        "upload_name": "Bravelove (MIDIn...",
+        "artist_page_url": "https://ccmixter.org/people/shagrugge",
+        "user_real_name": "shagrugge"
+      },
+      {
+        "upload_id": 4639,
+        "file_page_url": "https://ccmixter.org/files/RulesforRadicals/4639",
+        "upload_name": "Be Brave",
+        "artist_page_url": "https://ccmixter.org/people/RulesforRadicals",
+        "user_real_name": "Rules for R..."
+      },
+      {
+        "upload_id": 5773,
+        "file_page_url": "https://ccmixter.org/files/vincent_vega11/5773",
+        "upload_name": "trip_hop_reconst...",
+        "artist_page_url": "https://ccmixter.org/people/vincent_vega11",
+        "user_real_name": "vincent_veg..."
+      },
+      {
+        "upload_id": 6255,
+        "file_page_url": "https://ccmixter.org/files/Silent_Tear/6255",
+        "upload_name": "Norine Braun-Be ...",
+        "artist_page_url": "https://ccmixter.org/people/Silent_Tear",
+        "user_real_name": "Silent Tear"
+      },
+      {
+        "upload_id": 7159,
+        "file_page_url": "https://ccmixter.org/files/norelpref/7159",
+        "upload_name": "The Love We Gave",
+        "artist_page_url": "https://ccmixter.org/people/norelpref",
+        "user_real_name": "norelpref"
+      },
+      {
+        "upload_id": 7224,
+        "file_page_url": "https://ccmixter.org/files/mactonite/7224",
+        "upload_name": "Be Brave (Darkro...",
+        "artist_page_url": "https://ccmixter.org/people/mactonite",
+        "user_real_name": "Darkroom"
+      },
+      {
+        "upload_id": 7432,
+        "file_page_url": "https://ccmixter.org/files/blaxcot/7432",
+        "upload_name": "Be Brave",
+        "artist_page_url": "https://ccmixter.org/people/blaxcot",
+        "user_real_name": "blaxcot"
+      },
+      {
+        "upload_id": 7440,
+        "file_page_url": "https://ccmixter.org/files/blaxcot/7440",
+        "upload_name": "Be Brave Do It R...",
+        "artist_page_url": "https://ccmixter.org/people/blaxcot",
+        "user_real_name": "blaxcot"
+      },
+      {
+        "upload_id": 9109,
+        "file_page_url": "https://ccmixter.org/files/mcjackinthebox/9109",
+        "upload_name": "cc Chickster",
+        "artist_page_url": "https://ccmixter.org/people/mcjackinthebox",
+        "user_real_name": "MC Jack in ..."
+      },
+      {
+        "upload_id": 12702,
+        "file_page_url": "https://ccmixter.org/files/cdk/12702",
+        "upload_name": "Open Your Eyes (...",
+        "artist_page_url": "https://ccmixter.org/people/cdk",
+        "user_real_name": "cdk"
+      },
+      {
+        "upload_id": 22295,
+        "file_page_url": "https://ccmixter.org/files/Mseq/22295",
+        "upload_name": "Be Brave",
+        "artist_page_url": "https://ccmixter.org/people/Mseq",
+        "user_real_name": "logos"
+      },
+      {
+        "upload_id": 24356,
+        "file_page_url": "https://ccmixter.org/files/Mseq/24356",
+        "upload_name": "Mseq - CC Downte...",
+        "artist_page_url": "https://ccmixter.org/people/Mseq",
+        "user_real_name": "logos"
+      },
+      {
+        "upload_id": 58096,
+        "file_page_url": "https://ccmixter.org/files/Apoxode/58096",
+        "upload_name": "Always Psychic 160",
+        "artist_page_url": "https://ccmixter.org/people/Apoxode",
+        "user_real_name": "Apoxode"
+      },
+      {
+        "upload_id": 67693,
+        "file_page_url": "https://ccmixter.org/files/Radioontheshelf/67693",
+        "upload_name": "The Brevity Of B...",
+        "artist_page_url": "https://ccmixter.org/people/Radioontheshelf",
+        "user_real_name": "Radioonthes..."
+      },
+      {
+        "upload_id": 67859,
+        "file_page_url": "https://ccmixter.org/files/raja_ffm/67859",
+        "upload_name": "Be Brave",
+        "artist_page_url": "https://ccmixter.org/people/raja_ffm",
+        "user_real_name": "raja_ffm"
+      },
+      {
+        "upload_id": 68381,
+        "file_page_url": "https://ccmixter.org/files/Radioontheshelf/68381",
+        "upload_name": "Modern Times",
+        "artist_page_url": "https://ccmixter.org/people/Radioontheshelf",
+        "user_real_name": "Radioonthes..."
+      },
+      {
+        "upload_name": "Marginalia...",
+        "user_real_name": "mike",
+        "file_page_url": "https://ccmixter.org/pools/item/23076",
+        "artist_page_url": "https://ccmixter.org/pools/item/23076",
+        "pool_item_id": 23076,
+        "pool_item_extra": {
+          "ttype": "web",
+          "embed": "",
+          "poster": "jade",
+          "email": "jadefaf@hotmail.com",
+          "upload_id": 67
+        },
+        "pool_item_name": "Marginalia...",
+        "pool_item_artist": "mike",
+        "pool_item_url": "http://marginalia.sparkzy.com/",
+        "pool_item_timestamp": 1209543455
+      },
+      {
+        "upload_name": "Hotel Shanghai (Fe...",
+        "user_real_name": "Joor Nitth",
+        "file_page_url": "https://ccmixter.org/pools/item/63694",
+        "artist_page_url": "https://ccmixter.org/pools/item/63694",
+        "pool_item_id": 63694,
+        "pool_item_extra": {
+          "ttype": "remix",
+          "embed": "",
+          "poster": "Joor Nitth",
+          "email": "joornitth@mail.ua",
+          "upload_id": 67
+        },
+        "pool_item_name": "Hotel Shanghai (Feat. Norine Braun) by Joor Nitth | Free Listening on SoundCloud",
+        "pool_item_artist": "Joor Nitth",
+        "pool_item_url": "https://soundcloud.com/joornitth/hotel-shanghai-feat-norine-braun",
+        "pool_item_timestamp": 1573227234
+      }
+    ],
+    "children_overflow": true,
+    "upload_taglinks": [
+      {
+        "tagurl": "https://ccmixter.org/tags/media",
+        "tag": "media"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/acappella",
+        "tag": "acappella"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/trackback",
+        "tag": "trackback"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/in_web",
+        "tag": "in_web"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/in_remix",
+        "tag": "in_remix"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/sampling_plus",
+        "tag": "sampling_plus"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/audio",
+        "tag": "audio"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/mp3",
+        "tag": "mp3"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/44k",
+        "tag": "44k"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/mono",
+        "tag": "mono"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/128kbps",
+        "tag": "128kbps"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/funky",
+        "tag": "funky"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/jazz",
+        "tag": "jazz"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/male_vocals",
+        "tag": "male_vocals"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/organ",
+        "tag": "organ"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/piano",
+        "tag": "piano"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/rock",
+        "tag": "rock"
+      },
+      {
+        "tagurl": "https://ccmixter.org/tags/saxophone",
+        "tag": "saxophone"
+      }
+    ],
+    "file_macros": [
+      "comment_thread",
+      "file_macros.php/print_num_playlists"
+    ],
+    "comment_thread_url": "https://ccmixter.org/reviews/thread/67",
+    "upload_num_playlists": 1,
+    "fplay_url": "https://ccmixter.org/content/norineb/norineb_-_Be_Brave_(Vocals).mp3",
+    "dcmi": "http://purl.org/dc/dcmitype/Sound",
+    "dcmirel": "dc:type",
+    "flag_url": "https://ccmixter.org/flag/upload/67"
+  }
+]

@@ -1,0 +1,728 @@
+{
+  "max_upload_id": 71041,
+  "dataviews": {
+    "upload_page": {
+      "n_rows": 1,
+      "keys": [
+        "artist_page_url",
+        "children_overflow",
+        "comment_thread_url",
+        "dcmi",
+        "dcmirel",
+        "download_url",
+        "file_macros",
+        "file_page_url",
+        "files",
+        "flag_url",
+        "fplay_url",
+        "license_logo_url",
+        "license_name",
+        "license_permits",
+        "license_required",
+        "license_url",
+        "ratings_enabled",
+        "remix_children",
+        "thumbs_up",
+        "upload_date",
+        "upload_extra",
+        "upload_id",
+        "upload_name",
+        "upload_num_playlists",
+        "upload_num_scores",
+        "upload_published",
+        "upload_score",
+        "upload_taglinks",
+        "upload_tags",
+        "upload_user",
+        "user_avatar_url",
+        "user_id",
+        "user_name",
+        "user_real_name",
+        "year"
+      ],
+      "coverage": {
+        "upload_id": {
+          "chosen_key": "upload_id",
+          "n_present": 1,
+          "candidates_seen": {
+            "upload_id": 1
+          }
+        },
+        "user_name": {
+          "chosen_key": "user_name",
+          "n_present": 1,
+          "candidates_seen": {
+            "user_name": 1
+          }
+        },
+        "user_id": {
+          "chosen_key": "user_id",
+          "n_present": 1,
+          "candidates_seen": {
+            "user_id": 1,
+            "upload_user": 1
+          }
+        },
+        "user_real_name": {
+          "chosen_key": "user_real_name",
+          "n_present": 1,
+          "candidates_seen": {
+            "user_real_name": 1
+          }
+        },
+        "name": {
+          "chosen_key": "upload_name",
+          "n_present": 1,
+          "candidates_seen": {
+            "upload_name": 1
+          }
+        },
+        "date_raw": {
+          "chosen_key": "upload_date",
+          "n_present": 1,
+          "candidates_seen": {
+            "upload_date": 1
+          }
+        },
+        "date_unix": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "license": {
+          "chosen_key": "license_name",
+          "n_present": 1,
+          "candidates_seen": {
+            "license_name": 1,
+            "license_url": 1
+          }
+        },
+        "num_scores": {
+          "chosen_key": "upload_num_scores",
+          "n_present": 1,
+          "candidates_seen": {
+            "upload_num_scores": 1
+          }
+        },
+        "score": {
+          "chosen_key": "upload_score",
+          "n_present": 1,
+          "candidates_seen": {
+            "upload_score": 1
+          }
+        },
+        "num_playlists": {
+          "chosen_key": "upload_num_playlists",
+          "n_present": 1,
+          "candidates_seen": {
+            "upload_num_playlists": 1
+          }
+        },
+        "local_remixes": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "pool_remixes": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "local_sources": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "pool_sources": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "tags": {
+          "chosen_key": "upload_tags",
+          "n_present": 1,
+          "candidates_seen": {
+            "upload_tags": 1
+          }
+        },
+        "description": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "page_url": {
+          "chosen_key": "file_page_url",
+          "n_present": 1,
+          "candidates_seen": {
+            "file_page_url": 1
+          }
+        }
+      }
+    },
+    "info": {
+      "n_rows": 1,
+      "keys": [
+        "artist_page_url",
+        "children_overflow",
+        "file_page_url",
+        "files",
+        "license_logo_url",
+        "license_name",
+        "license_url",
+        "remix_children",
+        "upload_date",
+        "upload_extra",
+        "upload_id",
+        "upload_name",
+        "upload_taglinks",
+        "upload_tags",
+        "upload_user",
+        "user_id",
+        "user_name",
+        "user_real_name"
+      ],
+      "coverage": {
+        "upload_id": {
+          "chosen_key": "upload_id",
+          "n_present": 1,
+          "candidates_seen": {
+            "upload_id": 1
+          }
+        },
+        "user_name": {
+          "chosen_key": "user_name",
+          "n_present": 1,
+          "candidates_seen": {
+            "user_name": 1
+          }
+        },
+        "user_id": {
+          "chosen_key": "user_id",
+          "n_present": 1,
+          "candidates_seen": {
+            "user_id": 1,
+            "upload_user": 1
+          }
+        },
+        "user_real_name": {
+          "chosen_key": "user_real_name",
+          "n_present": 1,
+          "candidates_seen": {
+            "user_real_name": 1
+          }
+        },
+        "name": {
+          "chosen_key": "upload_name",
+          "n_present": 1,
+          "candidates_seen": {
+            "upload_name": 1
+          }
+        },
+        "date_raw": {
+          "chosen_key": "upload_date",
+          "n_present": 1,
+          "candidates_seen": {
+            "upload_date": 1
+          }
+        },
+        "date_unix": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "license": {
+          "chosen_key": "license_name",
+          "n_present": 1,
+          "candidates_seen": {
+            "license_name": 1,
+            "license_url": 1
+          }
+        },
+        "num_scores": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "score": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "num_playlists": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "local_remixes": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "pool_remixes": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "local_sources": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "pool_sources": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "tags": {
+          "chosen_key": "upload_tags",
+          "n_present": 1,
+          "candidates_seen": {
+            "upload_tags": 1
+          }
+        },
+        "description": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "page_url": {
+          "chosen_key": "file_page_url",
+          "n_present": 1,
+          "candidates_seen": {
+            "file_page_url": 1
+          }
+        }
+      }
+    },
+    "upload_list_wide": {
+      "n_rows": 5,
+      "keys": [
+        "artist_page_url",
+        "download_url",
+        "file_page_url",
+        "files",
+        "fplay_url",
+        "license_logo_url",
+        "license_name",
+        "license_url",
+        "more_parents_link",
+        "num_files",
+        "ratings_enabled",
+        "remix_children",
+        "remix_parents",
+        "reviews_url",
+        "stream_url",
+        "thumbs_up",
+        "upload_date_format",
+        "upload_extra",
+        "upload_id",
+        "upload_name",
+        "upload_name_chop",
+        "upload_num_remixes",
+        "upload_num_scores",
+        "upload_num_sources",
+        "user_avatar_url",
+        "user_name",
+        "user_real_name",
+        "usertag_links"
+      ],
+      "coverage": {
+        "upload_id": {
+          "chosen_key": "upload_id",
+          "n_present": 5,
+          "candidates_seen": {
+            "upload_id": 5
+          }
+        },
+        "user_name": {
+          "chosen_key": "user_name",
+          "n_present": 5,
+          "candidates_seen": {
+            "user_name": 5
+          }
+        },
+        "user_id": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "user_real_name": {
+          "chosen_key": "user_real_name",
+          "n_present": 5,
+          "candidates_seen": {
+            "user_real_name": 5
+          }
+        },
+        "name": {
+          "chosen_key": "upload_name",
+          "n_present": 5,
+          "candidates_seen": {
+            "upload_name": 5
+          }
+        },
+        "date_raw": {
+          "chosen_key": "upload_date_format",
+          "n_present": 5,
+          "candidates_seen": {
+            "upload_date_format": 5
+          }
+        },
+        "date_unix": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "license": {
+          "chosen_key": "license_name",
+          "n_present": 5,
+          "candidates_seen": {
+            "license_name": 5,
+            "license_url": 5
+          }
+        },
+        "num_scores": {
+          "chosen_key": "upload_num_scores",
+          "n_present": 5,
+          "candidates_seen": {
+            "upload_num_scores": 5
+          }
+        },
+        "score": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "num_playlists": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "local_remixes": {
+          "chosen_key": "upload_num_remixes",
+          "n_present": 1,
+          "candidates_seen": {
+            "upload_num_remixes": 1
+          }
+        },
+        "pool_remixes": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "local_sources": {
+          "chosen_key": "upload_num_sources",
+          "n_present": 4,
+          "candidates_seen": {
+            "upload_num_sources": 4
+          }
+        },
+        "pool_sources": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "tags": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "description": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "page_url": {
+          "chosen_key": "file_page_url",
+          "n_present": 5,
+          "candidates_seen": {
+            "file_page_url": 5
+          }
+        }
+      }
+    },
+    "links_by": {
+      "n_rows": 5,
+      "keys": [
+        "artist_page_url",
+        "download_url",
+        "file_page_url",
+        "files",
+        "upload_date",
+        "upload_extra",
+        "upload_id",
+        "upload_name",
+        "user_name",
+        "user_real_name"
+      ],
+      "coverage": {
+        "upload_id": {
+          "chosen_key": "upload_id",
+          "n_present": 5,
+          "candidates_seen": {
+            "upload_id": 5
+          }
+        },
+        "user_name": {
+          "chosen_key": "user_name",
+          "n_present": 5,
+          "candidates_seen": {
+            "user_name": 5
+          }
+        },
+        "user_id": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "user_real_name": {
+          "chosen_key": "user_real_name",
+          "n_present": 5,
+          "candidates_seen": {
+            "user_real_name": 5
+          }
+        },
+        "name": {
+          "chosen_key": "upload_name",
+          "n_present": 5,
+          "candidates_seen": {
+            "upload_name": 5
+          }
+        },
+        "date_raw": {
+          "chosen_key": "upload_date",
+          "n_present": 5,
+          "candidates_seen": {
+            "upload_date": 5
+          }
+        },
+        "date_unix": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "license": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "num_scores": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "score": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "num_playlists": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "local_remixes": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "pool_remixes": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "local_sources": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "pool_sources": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "tags": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "description": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "page_url": {
+          "chosen_key": "file_page_url",
+          "n_present": 5,
+          "candidates_seen": {
+            "file_page_url": 5
+          }
+        }
+      }
+    },
+    "default": {
+      "n_rows": 5,
+      "keys": [
+        "artist_page_url",
+        "file_page_url",
+        "files",
+        "license_logo_url",
+        "license_name",
+        "license_url",
+        "upload_date_format",
+        "upload_description_html",
+        "upload_description_plain",
+        "upload_extra",
+        "upload_id",
+        "upload_name",
+        "upload_num_scores",
+        "upload_tags",
+        "user_name",
+        "user_real_name"
+      ],
+      "coverage": {
+        "upload_id": {
+          "chosen_key": "upload_id",
+          "n_present": 5,
+          "candidates_seen": {
+            "upload_id": 5
+          }
+        },
+        "user_name": {
+          "chosen_key": "user_name",
+          "n_present": 5,
+          "candidates_seen": {
+            "user_name": 5
+          }
+        },
+        "user_id": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "user_real_name": {
+          "chosen_key": "user_real_name",
+          "n_present": 5,
+          "candidates_seen": {
+            "user_real_name": 5
+          }
+        },
+        "name": {
+          "chosen_key": "upload_name",
+          "n_present": 5,
+          "candidates_seen": {
+            "upload_name": 5
+          }
+        },
+        "date_raw": {
+          "chosen_key": "upload_date_format",
+          "n_present": 5,
+          "candidates_seen": {
+            "upload_date_format": 5
+          }
+        },
+        "date_unix": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "license": {
+          "chosen_key": "license_name",
+          "n_present": 5,
+          "candidates_seen": {
+            "license_name": 5,
+            "license_url": 5
+          }
+        },
+        "num_scores": {
+          "chosen_key": "upload_num_scores",
+          "n_present": 5,
+          "candidates_seen": {
+            "upload_num_scores": 5
+          }
+        },
+        "score": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "num_playlists": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "local_remixes": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "pool_remixes": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "local_sources": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "pool_sources": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "tags": {
+          "chosen_key": "upload_tags",
+          "n_present": 5,
+          "candidates_seen": {
+            "upload_tags": 5
+          }
+        },
+        "description": {
+          "chosen_key": null,
+          "n_present": 0,
+          "candidates_seen": {}
+        },
+        "page_url": {
+          "chosen_key": "file_page_url",
+          "n_present": 5,
+          "candidates_seen": {
+            "file_page_url": 5
+          }
+        }
+      }
+    }
+  },
+  "edge_probe_upload_id": 71040,
+  "edges": {
+    "sources": {
+      "n_rows": 18,
+      "keys": [
+        "artist_page_url",
+        "download_url",
+        "file_page_url",
+        "files",
+        "upload_date",
+        "upload_extra",
+        "upload_id",
+        "upload_name",
+        "user_name",
+        "user_real_name"
+      ]
+    },
+    "remixes": {
+      "n_rows": 1,
+      "keys": [
+        "artist_page_url",
+        "download_url",
+        "file_page_url",
+        "files",
+        "upload_date",
+        "upload_extra",
+        "upload_id",
+        "upload_name",
+        "user_name",
+        "user_real_name"
+      ]
+    }
+  }
+}

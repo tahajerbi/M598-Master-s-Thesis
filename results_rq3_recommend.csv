@@ -1,0 +1,19 @@
+negatives,method,MRR,MRR_lo,MRR_hi,H1,H5,H10
+random,random guess,0.0896,0.0859,0.0938,0.0199,0.0986,0.1971
+random,recency,0.4777,0.4673,0.4892,0.3792,0.5737,0.6597
+random,popularity,0.2037,0.1968,0.2108,0.0882,0.2909,0.4498
+random,model(random),0.558,0.548,0.5686,0.4351,0.6969,0.8092
+random,model(recent),0.165,0.1584,0.1721,0.0792,0.2255,0.3341
+random,model(agematched),0.3529,0.3437,0.3621,0.2128,0.4956,0.6745
+recent,random guess,0.086,0.0824,0.0897,0.0175,0.0957,0.192
+recent,recency,0.2018,0.1943,0.2103,0.1199,0.271,0.3211
+recent,popularity,0.3107,0.3012,0.3202,0.2043,0.3953,0.5224
+recent,model(random),0.2743,0.2658,0.2836,0.1685,0.3568,0.4614
+recent,model(recent),0.3511,0.3414,0.3609,0.2304,0.4572,0.6202
+recent,model(agematched),0.3715,0.3618,0.381,0.2368,0.5,0.6578
+agematched,random guess,0.0899,0.0859,0.0942,0.0212,0.0966,0.1966
+agematched,recency,0.1038,0.0995,0.1087,0.0252,0.1299,0.2019
+agematched,popularity,0.2524,0.2445,0.2612,0.1299,0.3553,0.5132
+agematched,model(random),0.34,0.3315,0.3484,0.1874,0.5058,0.6818
+agematched,model(recent),0.2996,0.2908,0.3085,0.158,0.4339,0.6118
+agematched,model(agematched),0.3447,0.3363,0.3535,0.1946,0.5005,0.6738

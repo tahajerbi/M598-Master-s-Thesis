@@ -1,0 +1,41 @@
+[
+  {
+    "upload_id": 71041,
+    "file_page_url": "https://ccmixter.org/files/admiralbob77/71041",
+    "upload_name": "Reduce to Supersonic",
+    "upload_date": "2026-07-20 21:30:23",
+    "artist_page_url": "https://ccmixter.org/people/admiralbob77",
+    "user_real_name": "Admiral Bob",
+    "user_name": "admiralbob77",
+    "upload_extra": "a:10:{s:8:\"usertags\";s:36:\"electronic,rock,guitar,funky,hip_hop\";s:4:\"ccud\";s:43:\"media,remix,bpm_100_105,ccplus,how_i_did_it\";s:7:\"systags\";s:39:\"non_commercial,audio,mp3,44k,stereo,VBR\";s:3:\"bpm\";s:3:\"100\";s:12:\"relative_dir\";s:20:\"content/admiralbob77\";s:9:\"featuring\";s:7:\"apoxode\";s:6:\"ccplus\";b:1;s:4:\"nsfw\";b:0;s:9:\"howididit\";a:5:{s:5:\"tools\";s:98:\"A Korg NanoKey, a Yamaha P125 piano, an Alesis drum pad, GarageBand, Audacity, a Fender Telecaster\";s:7:\"samples\";s:110:\"apoxode posted a huge anthology mix of a whole pile of people, but it was cohesive and funky (in a swift way.)\";s:7:\"origial\";s:70:\"drum additions, a saw lead on the synth, an organ part, a guitar part.\";s:7:\"process\";s:345:\"I slowed the original down to 100 bpm and pitched it down from G to D. Then I cut it up a bit, and played a drum part between the cuts and in the quieter parts. It is a bit of a counter beat, tugging it to 100 BPM on the 1 when it doesn't necessarily want to be. \r\n\r\nI added the saw lead, and then filled in the holes with guitar and organ bits.\";s:5:\"other\";s:0:\"\";}s:11:\"num_reviews\";i:2;}",
+    "files": [
+      {
+        "file_id": 129782,
+        "file_upload": 71041,
+        "file_name": "admiralbob77_-_Reduce_to_Supersonic.mp3",
+        "file_nicname": "mp3",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "2:07",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "sha1": "6VQ3442SHIIYBQMHZF27SHTKLUFHT2ML"
+        },
+        "file_filesize": " (4.90MB)",
+        "file_order": 0,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/admiralbob77/admiralbob77_-_Reduce_to_Supersonic.mp3",
+        "local_path": "/var/www/ccmixter/content/admiralbob77/admiralbob77_-_Reduce_to_Supersonic.mp3",
+        "file_rawsize": 5136596
+      }
+    ],
+    "download_url": "https://ccmixter.org/content/admiralbob77/admiralbob77_-_Reduce_to_Supersonic.mp3"
+  }
+]

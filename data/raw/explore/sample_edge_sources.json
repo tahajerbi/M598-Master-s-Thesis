@@ -1,0 +1,2944 @@
+[
+  {
+    "upload_id": 70912,
+    "file_page_url": "https://ccmixter.org/files/mwic/70912",
+    "upload_name": "Equitable",
+    "upload_date": "2026-06-01 09:33:05",
+    "artist_page_url": "https://ccmixter.org/people/mwic",
+    "user_real_name": "mwic",
+    "user_name": "mwic",
+    "upload_extra": "a:10:{s:8:\"usertags\";s:57:\"drone,experimental,downtempo,meditation,retro,synthesizer\";s:4:\"ccud\";s:30:\"media,remix,bpm_080_085,ccplus\";s:7:\"systags\";s:169:\"non_commercial,audio,mp3,44k,stereo,VBR,audio,flac,44k,stereo,VBR,audio,flac,44k,stereo,VBR,audio,flac,44k,stereo,VBR,audio,flac,44k,stereo,VBR,audio,flac,44k,stereo,VBR\";s:3:\"bpm\";s:2:\"82\";s:12:\"relative_dir\";s:12:\"content/mwic\";s:9:\"featuring\";s:0:\"\";s:6:\"ccplus\";b:1;s:4:\"nsfw\";b:0;s:7:\"last_op\";s:3:\"add\";s:11:\"num_reviews\";i:1;}",
+    "files": [
+      {
+        "file_id": 129261,
+        "file_upload": 70912,
+        "file_name": "mwic_-_Equitable.mp3",
+        "file_nicname": "mp3",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "2:23",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "sha1": "UXXWBHYM632A7IFGI5PCG2WBI7M54W2C"
+        },
+        "file_filesize": " (3.67MB)",
+        "file_order": 0,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/mwic/mwic_-_Equitable.mp3",
+        "local_path": "/var/www/ccmixter/content/mwic/mwic_-_Equitable.mp3",
+        "file_rawsize": 3851589
+      },
+      {
+        "file_id": 129262,
+        "file_upload": 70912,
+        "file_name": "mwic_-_Equitable.flac",
+        "file_nicname": "synth",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "2:20",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "ETRLAD4LF7H65KXPOGJFYT5ATB5ETKVF"
+        },
+        "file_filesize": " (1.19MB)",
+        "file_order": 1,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/mwic/mwic_-_Equitable.flac",
+        "local_path": "/var/www/ccmixter/content/mwic/mwic_-_Equitable.flac",
+        "file_rawsize": 1245520
+      },
+      {
+        "file_id": 129263,
+        "file_upload": 70912,
+        "file_name": "mwic_-_Equitable_1.flac",
+        "file_nicname": "fretlessBass",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "2:21",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "sha1": "2KQCQWZ5PXQCAH7SCFUVLKEQ2DOYRRKG"
+        },
+        "file_filesize": " (1.29MB)",
+        "file_order": 2,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/mwic/mwic_-_Equitable_1.flac",
+        "local_path": "/var/www/ccmixter/content/mwic/mwic_-_Equitable_1.flac",
+        "file_rawsize": 1350421
+      },
+      {
+        "file_id": 129264,
+        "file_upload": 70912,
+        "file_name": "mwic_-_Equitable_2.flac",
+        "file_nicname": "metalDrum",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "2:19",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "sha1": "ZRBD7IE5RCUFQY2I6Z7PQD324KCGK2S6"
+        },
+        "file_filesize": " (5.44MB)",
+        "file_order": 3,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/mwic/mwic_-_Equitable_2.flac",
+        "local_path": "/var/www/ccmixter/content/mwic/mwic_-_Equitable_2.flac",
+        "file_rawsize": 5707691
+      },
+      {
+        "file_id": 129265,
+        "file_upload": 70912,
+        "file_name": "mwic_-_Equitable_3.flac",
+        "file_nicname": "spectacleSynth",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "2:20",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "sha1": "ZODP6AUXXP2YBP7WPN2TS6EHJKX5XBQ7"
+        },
+        "file_filesize": " (9.23MB)",
+        "file_order": 4,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/mwic/mwic_-_Equitable_3.flac",
+        "local_path": "/var/www/ccmixter/content/mwic/mwic_-_Equitable_3.flac",
+        "file_rawsize": 9677880
+      },
+      {
+        "file_id": 129266,
+        "file_upload": 70912,
+        "file_name": "mwic_-_Equitable_4.flac",
+        "file_nicname": "full flac",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "2:23",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "multiple_formats",
+          "type": "multiple_formats",
+          "sha1": "Y6FYWHDRBZQRPRCBZNQQQI63WINOZGMD"
+        },
+        "file_filesize": " (14.91MB)",
+        "file_order": 5,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/mwic/mwic_-_Equitable_4.flac",
+        "local_path": "/var/www/ccmixter/content/mwic/mwic_-_Equitable_4.flac",
+        "file_rawsize": 15638888
+      }
+    ],
+    "download_url": "https://ccmixter.org/content/mwic/mwic_-_Equitable.mp3"
+  },
+  {
+    "upload_id": 70557,
+    "file_page_url": "https://ccmixter.org/files/softmartin/70557",
+    "upload_name": "AEMDROPS",
+    "upload_date": "2026-02-01 12:52:49",
+    "artist_page_url": "https://ccmixter.org/people/softmartin",
+    "user_real_name": "martinsea",
+    "user_name": "softmartin",
+    "upload_extra": "a:9:{s:8:\"usertags\";s:53:\"aemodular,synthesizer,bass,acoustic_bass,experimental\";s:4:\"ccud\";s:31:\"sample,media,bpm_070_075,ccplus\";s:7:\"systags\";s:63:\"non_commercial,audio,mp3,44k,stereo,VBR,archive,zip,archive,zip\";s:3:\"bpm\";s:2:\"70\";s:12:\"relative_dir\";s:18:\"content/softmartin\";s:9:\"featuring\";s:0:\"\";s:6:\"ccplus\";b:1;s:4:\"nsfw\";b:0;s:7:\"last_op\";s:3:\"add\";}",
+    "files": [
+      {
+        "file_id": 127754,
+        "file_upload": 70557,
+        "file_name": "softmartin_-_AEMDROPS.mp3",
+        "file_nicname": "mp3",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:38",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "sha1": "SXXMQW7BB5W3P2UWNCYB46CMC4IUXI3A",
+          "ccud": "preview",
+          "type": "preview"
+        },
+        "file_filesize": " (5.16MB)",
+        "file_order": 0,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/softmartin/softmartin_-_AEMDROPS.mp3",
+        "local_path": "/var/www/ccmixter/content/softmartin/softmartin_-_AEMDROPS.mp3",
+        "file_rawsize": 5411697
+      },
+      {
+        "file_id": 127755,
+        "file_upload": 70557,
+        "file_name": "softmartin_-_AEMDROPS.zip",
+        "file_nicname": "ZIP",
+        "file_format_info": {
+          "media-type": "archive",
+          "format-name": "archive-zip-",
+          "default-ext": "zip",
+          "mime_type": "application/zip",
+          "zipdir": {
+            "files": [
+              "/aemdrops_leftsynth.flac  (3.93MB)",
+              "/aemdrops_rightsynth.flac  (2.85MB)"
+            ]
+          }
+        },
+        "file_extra": {
+          "sha1": "Q6WOFYQK3G6U6IQK5DUAQ74CF34LK7FD"
+        },
+        "file_filesize": " (6.22MB)",
+        "file_order": 1,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/softmartin/softmartin_-_AEMDROPS.zip",
+        "local_path": "/var/www/ccmixter/content/softmartin/softmartin_-_AEMDROPS.zip",
+        "file_rawsize": 6523706
+      },
+      {
+        "file_id": 127756,
+        "file_upload": 70557,
+        "file_name": "softmartin_-_AEMDROPS_1.zip",
+        "file_nicname": "ZIP2",
+        "file_format_info": {
+          "media-type": "archive",
+          "format-name": "archive-zip-",
+          "default-ext": "zip",
+          "mime_type": "application/zip",
+          "zipdir": {
+            "files": [
+              "/aemdrops_bass.flac  (5.50MB)",
+              "/aemdrops_tears.flac  (8.18MB)"
+            ]
+          }
+        },
+        "file_extra": {
+          "sha1": "66BEL5HFH6ICYKF44PTUWAR3X7CMLTXS"
+        },
+        "file_filesize": " (13.08MB)",
+        "file_order": 2,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/softmartin/softmartin_-_AEMDROPS_1.zip",
+        "local_path": "/var/www/ccmixter/content/softmartin/softmartin_-_AEMDROPS_1.zip",
+        "file_rawsize": 13715137
+      }
+    ],
+    "download_url": "https://ccmixter.org/content/softmartin/softmartin_-_AEMDROPS.mp3"
+  },
+  {
+    "upload_id": 70456,
+    "file_page_url": "https://ccmixter.org/files/admiralbob77/70456",
+    "upload_name": "First Day",
+    "upload_date": "2026-01-02 17:12:26",
+    "artist_page_url": "https://ccmixter.org/people/admiralbob77",
+    "user_real_name": "Admiral Bob",
+    "user_name": "admiralbob77",
+    "upload_extra": "a:10:{s:8:\"usertags\";s:100:\"instrumental,electronic,rock,bass,piano,synthesizer,guitar,electric,electric_guitar,telecaster,drums\";s:4:\"ccud\";s:31:\"sample,media,bpm_105_110,ccplus\";s:7:\"systags\";s:161:\"attribution,audio,mp3,44k,stereo,VBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR\";s:3:\"bpm\";s:3:\"105\";s:12:\"relative_dir\";s:20:\"content/admiralbob77\";s:9:\"featuring\";s:0:\"\";s:6:\"ccplus\";b:1;s:4:\"nsfw\";b:0;s:7:\"last_op\";s:3:\"add\";s:11:\"num_reviews\";i:1;}",
+    "files": [
+      {
+        "file_id": 127344,
+        "file_upload": 70456,
+        "file_name": "admiralbob77_-_First_Day.mp3",
+        "file_nicname": "Preview",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "1:58",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "sha1": "CPXRQTND6QXSCO3ZQX5B2MH7YT4AYQCT",
+          "ccud": "preview",
+          "type": "preview"
+        },
+        "file_filesize": " (2.79MB)",
+        "file_order": 0,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/admiralbob77/admiralbob77_-_First_Day.mp3",
+        "local_path": "/var/www/ccmixter/content/admiralbob77/admiralbob77_-_First_Day.mp3",
+        "file_rawsize": 2925125
+      },
+      {
+        "file_id": 127345,
+        "file_upload": 70456,
+        "file_name": "admiralbob77_-_First_Day_1.mp3",
+        "file_nicname": "bass",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "1:58",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "ORYT2AGJOYOSGGMCLDA46BBQ7YUMT3RJ"
+        },
+        "file_filesize": " (3.59MB)",
+        "file_order": 1,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/admiralbob77/admiralbob77_-_First_Day_1.mp3",
+        "local_path": "/var/www/ccmixter/content/admiralbob77/admiralbob77_-_First_Day_1.mp3",
+        "file_rawsize": 3765729
+      },
+      {
+        "file_id": 127346,
+        "file_upload": 70456,
+        "file_name": "admiralbob77_-_First_Day_2.mp3",
+        "file_nicname": "drums",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "1:58",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "JQWJJI2VKLUUYDW3MYEPLOZ6ZVEG57ZF"
+        },
+        "file_filesize": " (3.59MB)",
+        "file_order": 2,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/admiralbob77/admiralbob77_-_First_Day_2.mp3",
+        "local_path": "/var/www/ccmixter/content/admiralbob77/admiralbob77_-_First_Day_2.mp3",
+        "file_rawsize": 3765729
+      },
+      {
+        "file_id": 127347,
+        "file_upload": 70456,
+        "file_name": "admiralbob77_-_First_Day_3.mp3",
+        "file_nicname": "guitar",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "1:58",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "EFCOJXQ5QYF5ECJ7E7CBUZR67NBPOMZH"
+        },
+        "file_filesize": " (3.59MB)",
+        "file_order": 3,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/admiralbob77/admiralbob77_-_First_Day_3.mp3",
+        "local_path": "/var/www/ccmixter/content/admiralbob77/admiralbob77_-_First_Day_3.mp3",
+        "file_rawsize": 3765729
+      },
+      {
+        "file_id": 127348,
+        "file_upload": 70456,
+        "file_name": "admiralbob77_-_First_Day_4.mp3",
+        "file_nicname": "piano",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "1:58",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "3OJ32JOGWPFV6MKEVQL4BYBMKCKCEIQM"
+        },
+        "file_filesize": " (3.59MB)",
+        "file_order": 4,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/admiralbob77/admiralbob77_-_First_Day_4.mp3",
+        "local_path": "/var/www/ccmixter/content/admiralbob77/admiralbob77_-_First_Day_4.mp3",
+        "file_rawsize": 3765729
+      },
+      {
+        "file_id": 127349,
+        "file_upload": 70456,
+        "file_name": "admiralbob77_-_First_Day_5.mp3",
+        "file_nicname": "synth",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "1:58",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "OGHU5NUTMK4DKRD2G5A3M4O65N7RQ4IH"
+        },
+        "file_filesize": " (3.59MB)",
+        "file_order": 5,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/admiralbob77/admiralbob77_-_First_Day_5.mp3",
+        "local_path": "/var/www/ccmixter/content/admiralbob77/admiralbob77_-_First_Day_5.mp3",
+        "file_rawsize": 3765729
+      }
+    ],
+    "download_url": "https://ccmixter.org/content/admiralbob77/admiralbob77_-_First_Day.mp3"
+  },
+  {
+    "upload_id": 70329,
+    "file_page_url": "https://ccmixter.org/files/NiGiD/70329",
+    "upload_name": "Dub Breaks III",
+    "upload_date": "2025-11-30 07:09:28",
+    "artist_page_url": "https://ccmixter.org/people/NiGiD",
+    "user_real_name": "Martijn de Boer (NiGiD)",
+    "user_name": "NiGiD",
+    "upload_extra": "a:10:{s:8:\"usertags\";s:93:\"bass,organ,saxophone,drums,music_for_film,background_music,reggae,dub,breaks,excerpt,excerpts\";s:4:\"ccud\";s:31:\"sample,media,ccplus,bpm_080_085\";s:7:\"systags\";s:111:\"non_commercial,audio,mp3,44k,stereo,VBR,audio,flac,44k,mono,VBR,audio,flac,44k,mono,VBR,archive,zip,archive,zip\";s:3:\"bpm\";s:2:\"80\";s:12:\"relative_dir\";s:13:\"content/NiGiD\";s:9:\"featuring\";s:0:\"\";s:6:\"ccplus\";b:1;s:4:\"nsfw\";b:0;s:7:\"last_op\";s:3:\"add\";s:11:\"num_reviews\";i:1;}",
+    "files": [
+      {
+        "file_id": 126830,
+        "file_upload": 70329,
+        "file_name": "NiGiD_-_Dub_Breaks_III.mp3",
+        "file_nicname": "mp3",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "16:12",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "sha1": "FPPMPQQZUHIV4BHBKO3KWTBKMJXVGDCO"
+        },
+        "file_filesize": " (21.83MB)",
+        "file_order": 0,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/NiGiD/NiGiD_-_Dub_Breaks_III.mp3",
+        "local_path": "/var/www/ccmixter/content/NiGiD/NiGiD_-_Dub_Breaks_III.mp3",
+        "file_rawsize": 22891927
+      },
+      {
+        "file_id": 126831,
+        "file_upload": 70329,
+        "file_name": "NiGiD_-_Dub_Breaks_III.flac",
+        "file_nicname": "Bass",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "44k",
+          "ch": "mono",
+          "ps": "16:12",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "sha1": "U2BWVSW2I5GXOSM2AB22AKYFZHL7YGUE"
+        },
+        "file_filesize": " (29.56MB)",
+        "file_order": 1,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/NiGiD/NiGiD_-_Dub_Breaks_III.flac",
+        "local_path": "/var/www/ccmixter/content/NiGiD/NiGiD_-_Dub_Breaks_III.flac",
+        "file_rawsize": 31000125
+      },
+      {
+        "file_id": 126832,
+        "file_upload": 70329,
+        "file_name": "NiGiD_-_Dub_Breaks_III_1.flac",
+        "file_nicname": "Drums",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "44k",
+          "ch": "mono",
+          "ps": "16:12",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "sha1": "ZZF4VIDJAUYI6WPD5K2YGUUSECLKWWPX"
+        },
+        "file_filesize": " (44.05MB)",
+        "file_order": 2,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/NiGiD/NiGiD_-_Dub_Breaks_III_1.flac",
+        "local_path": "/var/www/ccmixter/content/NiGiD/NiGiD_-_Dub_Breaks_III_1.flac",
+        "file_rawsize": 46189998
+      },
+      {
+        "file_id": 126833,
+        "file_upload": 70329,
+        "file_name": "NiGiD_-_Dub_Breaks_III.zip",
+        "file_nicname": "Organ",
+        "file_format_info": {
+          "media-type": "archive",
+          "format-name": "archive-zip-",
+          "default-ext": "zip",
+          "mime_type": "application/zip",
+          "zipdir": {
+            "files": [
+              "/Organ - MIDI.mid  (10.77KB)",
+              "/Organ.flac  (17.50MB)"
+            ]
+          }
+        },
+        "file_extra": {
+          "sha1": "MYTC4OYDJVEQA6V2Q55UELCCGK22YKON"
+        },
+        "file_filesize": " (16.72MB)",
+        "file_order": 3,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/NiGiD/NiGiD_-_Dub_Breaks_III.zip",
+        "local_path": "/var/www/ccmixter/content/NiGiD/NiGiD_-_Dub_Breaks_III.zip",
+        "file_rawsize": 17532341
+      },
+      {
+        "file_id": 126834,
+        "file_upload": 70329,
+        "file_name": "NiGiD_-_Dub_Breaks_III_1.zip",
+        "file_nicname": "Saxes",
+        "file_format_info": {
+          "media-type": "archive",
+          "format-name": "archive-zip-",
+          "default-ext": "zip",
+          "mime_type": "application/zip",
+          "zipdir": {
+            "files": [
+              "/Saxes (dry).flac  (23.15MB)",
+              "/Saxes - MIDI.mid  (7.26KB)",
+              "/Saxes.flac  (25.54MB)"
+            ]
+          }
+        },
+        "file_extra": {
+          "sha1": "HOYB6IY5NVEMDUEMLRJUKXPYPWSAHDJL"
+        },
+        "file_filesize": " (48.02MB)",
+        "file_order": 4,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/NiGiD/NiGiD_-_Dub_Breaks_III_1.zip",
+        "local_path": "/var/www/ccmixter/content/NiGiD/NiGiD_-_Dub_Breaks_III_1.zip",
+        "file_rawsize": 50354947
+      }
+    ],
+    "download_url": "https://ccmixter.org/content/NiGiD/NiGiD_-_Dub_Breaks_III.mp3"
+  },
+  {
+    "upload_id": 70156,
+    "file_page_url": "https://ccmixter.org/files/snowflake/70156",
+    "upload_name": "Hyperspeed (pell)",
+    "upload_date": "2025-10-25 21:33:10",
+    "artist_page_url": "https://ccmixter.org/people/snowflake",
+    "user_real_name": "Madam Snowflake",
+    "user_name": "snowflake",
+    "upload_extra": "a:9:{s:8:\"usertags\";s:32:\"female_vocals,electronic,hip_hop\";s:4:\"ccud\";s:34:\"acappella,media,ccplus,bpm_095_100\";s:7:\"systags\";s:117:\"non_commercial,audio,mp3,44k,stereo,CBR,audio,flac,44k,stereo,VBR,audio,flac,44k,stereo,VBR,audio,flac,44k,stereo,VBR\";s:3:\"bpm\";s:2:\"99\";s:12:\"relative_dir\";s:17:\"content/snowflake\";s:9:\"featuring\";s:0:\"\";s:6:\"ccplus\";b:1;s:4:\"nsfw\";b:0;s:7:\"last_op\";s:3:\"add\";}",
+    "files": [
+      {
+        "file_id": 126220,
+        "file_upload": 70156,
+        "file_name": "snowflake_-_Hyperspeed_(pell)_1.mp3",
+        "file_nicname": "mp3",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:14",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "sha1": "ZUKXN54YPOE73N24KGGDCNT6SJ7CD2QT"
+        },
+        "file_filesize": " (5.81MB)",
+        "file_order": 0,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/snowflake/snowflake_-_Hyperspeed_(pell)_1.mp3",
+        "local_path": "/var/www/ccmixter/content/snowflake/snowflake_-_Hyperspeed_(pell)_1.mp3",
+        "file_rawsize": 6090196
+      },
+      {
+        "file_id": 126221,
+        "file_upload": 70156,
+        "file_name": "snowflake_-_Hyperspeed_(pell)_3.flac",
+        "file_nicname": "lvox clean flac",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:16",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "acappella,media",
+          "type": "pella",
+          "sha1": "TCMGM57QAP6XP7FSWGYPBKD7E73VKTJI"
+        },
+        "file_filesize": " (15.78MB)",
+        "file_order": 1,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/snowflake/snowflake_-_Hyperspeed_(pell)_3.flac",
+        "local_path": "/var/www/ccmixter/content/snowflake/snowflake_-_Hyperspeed_(pell)_3.flac",
+        "file_rawsize": 16544467
+      },
+      {
+        "file_id": 126222,
+        "file_upload": 70156,
+        "file_name": "snowflake_-_Hyperspeed_(pell).flac",
+        "file_nicname": "lead vox treated flac",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:16",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "acappella,media",
+          "type": "pella",
+          "sha1": "WMQBMOR2YMHIPJMATE2RKIPEY2CKO5SQ"
+        },
+        "file_filesize": " (29.60MB)",
+        "file_order": 2,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/snowflake/snowflake_-_Hyperspeed_(pell).flac",
+        "local_path": "/var/www/ccmixter/content/snowflake/snowflake_-_Hyperspeed_(pell).flac",
+        "file_rawsize": 31033398
+      },
+      {
+        "file_id": 126223,
+        "file_upload": 70156,
+        "file_name": "snowflake_-_Hyperspeed_(pell)_1.flac",
+        "file_nicname": "bvox",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:14",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "acappella,media",
+          "type": "pella",
+          "sha1": "ZJ2W4FCBWDAKUCW4GEP6NWFID2MPNRUD"
+        },
+        "file_filesize": " (31.32MB)",
+        "file_order": 3,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/snowflake/snowflake_-_Hyperspeed_(pell)_1.flac",
+        "local_path": "/var/www/ccmixter/content/snowflake/snowflake_-_Hyperspeed_(pell)_1.flac",
+        "file_rawsize": 32837837
+      }
+    ],
+    "download_url": "https://ccmixter.org/content/snowflake/snowflake_-_Hyperspeed_(pell)_1.mp3"
+  },
+  {
+    "upload_id": 70122,
+    "file_page_url": "https://ccmixter.org/files/mactonite/70122",
+    "upload_name": "greaties",
+    "upload_date": "2025-10-10 23:41:26",
+    "artist_page_url": "https://ccmixter.org/people/mactonite",
+    "user_real_name": "Darkroom",
+    "user_name": "mactonite",
+    "upload_extra": "a:9:{s:8:\"usertags\";s:48:\"loops,drums,bass,synthesizer,instrumental,techno\";s:4:\"ccud\";s:31:\"sample,media,bpm_095_100,ccplus\";s:7:\"systags\";s:139:\"non_commercial,audio,mp3,44k,stereo,VBR,audio,mp3,44k,stereo,VBR,audio,mp3,44k,stereo,VBR,audio,mp3,44k,stereo,VBR,audio,mp3,44k,stereo,VBR\";s:3:\"bpm\";s:2:\"96\";s:12:\"relative_dir\";s:17:\"content/mactonite\";s:9:\"featuring\";s:0:\"\";s:6:\"ccplus\";b:1;s:4:\"nsfw\";b:0;s:7:\"last_op\";s:3:\"add\";}",
+    "files": [
+      {
+        "file_id": 126051,
+        "file_upload": 70122,
+        "file_name": "mactonite_-_greaties.mp3",
+        "file_nicname": "mp3",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "2:00",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "sha1": "N54RN44QLVJOBBMN3K5YO6B6PMZP3CIS"
+        },
+        "file_filesize": " (4.58MB)",
+        "file_order": 0,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/mactonite/mactonite_-_greaties.mp3",
+        "local_path": "/var/www/ccmixter/content/mactonite/mactonite_-_greaties.mp3",
+        "file_rawsize": 4806574
+      },
+      {
+        "file_id": 126052,
+        "file_upload": 70122,
+        "file_name": "mactonite_-_greaties_1.mp3",
+        "file_nicname": "bass",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "1:50",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "sha1": "A3HWD5DR2DA5AII7EMOX3ZL7O74YDVSS",
+          "ccud": "sample,media",
+          "type": "samples"
+        },
+        "file_filesize": " (4.20MB)",
+        "file_order": 1,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/mactonite/mactonite_-_greaties_1.mp3",
+        "local_path": "/var/www/ccmixter/content/mactonite/mactonite_-_greaties_1.mp3",
+        "file_rawsize": 4407423
+      },
+      {
+        "file_id": 126053,
+        "file_upload": 70122,
+        "file_name": "mactonite_-_greaties_2.mp3",
+        "file_nicname": "drums",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "1:55",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "CRE4MB2OTQFOQYUGJF5I53XGSQOQAOPB"
+        },
+        "file_filesize": " (4.39MB)",
+        "file_order": 2,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/mactonite/mactonite_-_greaties_2.mp3",
+        "local_path": "/var/www/ccmixter/content/mactonite/mactonite_-_greaties_2.mp3",
+        "file_rawsize": 4606998
+      },
+      {
+        "file_id": 126054,
+        "file_upload": 70122,
+        "file_name": "mactonite_-_greaties_3.mp3",
+        "file_nicname": "Iris",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "1:23",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "sha1": "R2WWBQ3DYHGETXB36YOL3VL4EHNZ7OZL"
+        },
+        "file_filesize": " (3.15MB)",
+        "file_order": 3,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/mactonite/mactonite_-_greaties_3.mp3",
+        "local_path": "/var/www/ccmixter/content/mactonite/mactonite_-_greaties_3.mp3",
+        "file_rawsize": 3307145
+      },
+      {
+        "file_id": 126055,
+        "file_upload": 70122,
+        "file_name": "mactonite_-_greaties_4.mp3",
+        "file_nicname": "VX7",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "0:45",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "AWKXBIICRWWEHAW2RTAEME5PTTT5OZ2C"
+        },
+        "file_filesize": " (1.72MB)",
+        "file_order": 4,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/mactonite/mactonite_-_greaties_4.mp3",
+        "local_path": "/var/www/ccmixter/content/mactonite/mactonite_-_greaties_4.mp3",
+        "file_rawsize": 1806672
+      }
+    ],
+    "download_url": "https://ccmixter.org/content/mactonite/mactonite_-_greaties.mp3"
+  },
+  {
+    "upload_id": 69892,
+    "file_page_url": "https://ccmixter.org/files/cdk/69892",
+    "upload_name": "Fact",
+    "upload_date": "2025-07-03 10:54:43",
+    "artist_page_url": "https://ccmixter.org/people/cdk",
+    "user_real_name": "cdk",
+    "user_name": "cdk",
+    "upload_extra": "a:10:{s:8:\"usertags\";s:56:\"hip_hop,bass,synthesizer,instrumental,experimental,funky\";s:4:\"ccud\";s:31:\"sample,media,bpm_095_100,ccplus\";s:7:\"systags\";s:48:\"attribution,archive,zip,audio,mp3,44k,stereo,CBR\";s:3:\"bpm\";s:2:\"96\";s:12:\"relative_dir\";s:11:\"content/cdk\";s:9:\"featuring\";s:0:\"\";s:6:\"ccplus\";b:1;s:4:\"nsfw\";b:0;s:7:\"last_op\";s:3:\"add\";s:11:\"num_reviews\";i:4;}",
+    "files": [
+      {
+        "file_id": 125355,
+        "file_upload": 69892,
+        "file_name": "cdk_-_Fact.mp3",
+        "file_nicname": "Preview",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "2:38",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "preview",
+          "type": "preview",
+          "sha1": "HG2I5IHPFBUXIWWZHGK2BNU4IT7KF24E"
+        },
+        "file_filesize": " (6.01MB)",
+        "file_order": 0,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/cdk/cdk_-_Fact.mp3",
+        "local_path": "/var/www/ccmixter/content/cdk/cdk_-_Fact.mp3",
+        "file_rawsize": 6304957
+      },
+      {
+        "file_id": 125354,
+        "file_upload": 69892,
+        "file_name": "cdk_-_Fact.zip",
+        "file_nicname": "zip",
+        "file_format_info": {
+          "media-type": "archive",
+          "format-name": "archive-zip-",
+          "default-ext": "zip",
+          "mime_type": "application/zip",
+          "zipdir": {
+            "files": [
+              "/Fact 2-KSHMR Acoustic Kick 01.wav  (26.50MB)",
+              "/Fact 3-STO_Sub_12.wav  (26.50MB)",
+              "/Fact 4-KSHMR Acoustic Crash 01.wav  (26.50MB)",
+              "/Fact 5 Snare.wav  (26.50MB)",
+              "/Fact 8-KSHMR Acoustic Closed Hat 01.wav  (26.50MB)",
+              "/Fact 9-KSHMR Acoustic Open Hat 02.wav  (26.50MB)",
+              "/Fact 10-KSHMR Acoustic Open Hat 02.wav  (26.50MB)",
+              "/Fact 11 tambourine.wav  (26.50MB)",
+              "/Fact 12 perc.wav  (26.50MB)",
+              "/Fact 13 guiro.wav  (26.50MB)",
+              "/Fact 14 textures.wav  (26.50MB)",
+              "/Fact 15 siren.wav  (26.50MB)",
+              "/Fact 16-Chord_MoScale.wav  (26.50MB)",
+              "/Fact 17 flute.wav  (26.50MB)",
+              "/Fact 18 strings.wav  (26.50MB)",
+              "/Fact 19 string add.wav  (26.50MB)",
+              "/Fact 20 mid bass.wav  (26.50MB)",
+              "/Fact 21 Lead  GRP.wav  (26.50MB)",
+              "/Fact 26 Metal Bass.wav  (26.50MB)",
+              "/Fact 27 Metal Bass release.wav  (26.50MB)",
+              "/Fact 28 pre-shift.wav  (26.50MB)",
+              "/Fact 29 intro wub.wav  (26.50MB)",
+              "/Fact 30 layer for vox.wav  (26.50MB)",
+              "/Fact 31 backs.wav  (26.50MB)",
+              "/Fact 32 dogs.wav  (26.50MB)",
+              "/Fact 37 breath.wav  (26.50MB)",
+              "/Fact 38 Downlifter.wav  (26.50MB)",
+              "/Fact 39 White Noise.wav  (26.50MB)",
+              "/Fact 40 reverse.wav  (26.50MB)",
+              "/Fact 41-TD_noize_1.wav  (26.50MB)",
+              "/Fact 42-SMC_AMP_CRASH_FX.wav  (26.50MB)",
+              "/Fact 43-SHU_Vinyl_FX_01.wav  (26.50MB)"
+            ]
+          }
+        },
+        "file_extra": {
+          "sha1": "IWQJV6W4FT72DN5XXNOPPTP4VYIRTAHT"
+        },
+        "file_filesize": " (90.51MB)",
+        "file_order": 1,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/cdk/cdk_-_Fact.zip",
+        "local_path": "/var/www/ccmixter/content/cdk/cdk_-_Fact.zip",
+        "file_rawsize": 94906798
+      }
+    ],
+    "download_url": "https://ccmixter.org/content/cdk/cdk_-_Fact.mp3"
+  },
+  {
+    "upload_id": 69493,
+    "file_page_url": "https://ccmixter.org/files/mwic/69493",
+    "upload_name": "Power Struggle",
+    "upload_date": "2025-02-23 09:57:58",
+    "artist_page_url": "https://ccmixter.org/people/mwic",
+    "user_real_name": "mwic",
+    "user_name": "mwic",
+    "upload_extra": "a:10:{s:8:\"usertags\";s:44:\"funky,hip_hop,art_rap,trap,male_vocals,dance\";s:4:\"ccud\";s:72:\"media,secret_mixter,remix,resilience_2025,ccplus_stem,ccplus,bpm_120_125\";s:7:\"systags\";s:65:\"non_commercial,audio,mp3,48k,stereo,VBR,audio,flac,48k,stereo,VBR\";s:3:\"bpm\";s:3:\"120\";s:12:\"relative_dir\";s:12:\"content/mwic\";s:9:\"featuring\";s:0:\"\";s:6:\"ccplus\";b:1;s:4:\"nsfw\";b:1;s:11:\"num_reviews\";i:9;s:7:\"last_op\";s:3:\"add\";}",
+    "files": [
+      {
+        "file_id": 124072,
+        "file_upload": 69493,
+        "file_name": "mwic_-_Power_Struggle_1.mp3",
+        "file_nicname": "mp3",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "48k",
+          "ch": "stereo",
+          "ps": "2:08",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "sha1": "T5PAQB2DXHOTEDSDYSUS5S2MA4X6FHMH"
+        },
+        "file_filesize": " (2.94MB)",
+        "file_order": 0,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/mwic/mwic_-_Power_Struggle_1.mp3",
+        "local_path": "/var/www/ccmixter/content/mwic/mwic_-_Power_Struggle_1.mp3",
+        "file_rawsize": 3081191
+      },
+      {
+        "file_id": 124073,
+        "file_upload": 69493,
+        "file_name": "mwic_-_Power_Struggle_1.flac",
+        "file_nicname": "voxDry",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "48k",
+          "ch": "stereo",
+          "ps": "1:58",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "acappella,media",
+          "type": "pella",
+          "sha1": "MK3FSUJ5TDJ54O3NDEAAQJMLPYO2SWIW"
+        },
+        "file_filesize": " (4.73MB)",
+        "file_order": 1,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/mwic/mwic_-_Power_Struggle_1.flac",
+        "local_path": "/var/www/ccmixter/content/mwic/mwic_-_Power_Struggle_1.flac",
+        "file_rawsize": 4959574
+      }
+    ],
+    "download_url": "https://ccmixter.org/content/mwic/mwic_-_Power_Struggle_1.mp3"
+  },
+  {
+    "upload_id": 69370,
+    "file_page_url": "https://ccmixter.org/files/JeffSpeed68/69370",
+    "upload_name": 9001,
+    "upload_date": "2025-01-26 02:04:16",
+    "artist_page_url": "https://ccmixter.org/people/JeffSpeed68",
+    "user_real_name": "Stefan Kartenberg",
+    "user_name": "JeffSpeed68",
+    "upload_extra": "a:10:{s:8:\"usertags\";s:18:\"female_vocals,rock\";s:4:\"ccud\";s:34:\"acappella,media,bpm_095_100,ccplus\";s:7:\"systags\";s:91:\"non_commercial,audio,mp3,48k,stereo,VBR,audio,flac,48k,stereo,VBR,audio,flac,48k,stereo,VBR\";s:3:\"bpm\";s:2:\"97\";s:12:\"relative_dir\";s:19:\"content/JeffSpeed68\";s:9:\"featuring\";s:15:\"Bianca StÃ¼cker\";s:6:\"ccplus\";b:1;s:4:\"nsfw\";b:0;s:7:\"last_op\";s:3:\"add\";s:11:\"num_reviews\";i:1;}",
+    "files": [
+      {
+        "file_id": 123700,
+        "file_upload": 69370,
+        "file_name": "JeffSpeed68_-_9001.mp3",
+        "file_nicname": "mp3",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "48k",
+          "ch": "stereo",
+          "ps": "4:05",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "sha1": "RZFDNMJX6LNIUAN44NGGJI5ZNEQFB53A"
+        },
+        "file_filesize": " (3.74MB)",
+        "file_order": 0,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/JeffSpeed68/JeffSpeed68_-_9001.mp3",
+        "local_path": "/var/www/ccmixter/content/JeffSpeed68/JeffSpeed68_-_9001.mp3",
+        "file_rawsize": 3924288
+      },
+      {
+        "file_id": 123701,
+        "file_upload": 69370,
+        "file_name": "JeffSpeed68_-_9001.flac",
+        "file_nicname": "vocals dry",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "48k",
+          "ch": "stereo",
+          "ps": "4:05",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "sha1": "GXSXBN6EYYJ6P7V4UPGMDWNRBPIXZ5B4"
+        },
+        "file_filesize": " (34.90MB)",
+        "file_order": 1,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/JeffSpeed68/JeffSpeed68_-_9001.flac",
+        "local_path": "/var/www/ccmixter/content/JeffSpeed68/JeffSpeed68_-_9001.flac",
+        "file_rawsize": 36590790
+      },
+      {
+        "file_id": 123702,
+        "file_upload": 69370,
+        "file_name": "JeffSpeed68_-_1.flac",
+        "file_nicname": "vocals fx",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "48k",
+          "ch": "stereo",
+          "ps": "4:05",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "sha1": "3FASJBPVQVDFDCRGSVZ72DOKOXJEHJPT"
+        },
+        "file_filesize": " (38.32MB)",
+        "file_order": 2,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/JeffSpeed68/JeffSpeed68_-_1.flac",
+        "local_path": "/var/www/ccmixter/content/JeffSpeed68/JeffSpeed68_-_1.flac",
+        "file_rawsize": 40181294
+      }
+    ],
+    "download_url": "https://ccmixter.org/content/JeffSpeed68/JeffSpeed68_-_9001.mp3"
+  },
+  {
+    "upload_id": 69189,
+    "file_page_url": "https://ccmixter.org/files/mwic/69189",
+    "upload_name": "Gift of the Magi",
+    "upload_date": "2024-12-09 17:52:56",
+    "artist_page_url": "https://ccmixter.org/people/mwic",
+    "user_real_name": "mwic",
+    "user_name": "mwic",
+    "upload_extra": "a:10:{s:8:\"usertags\";s:41:\"holiday,christmas,short_story,spoken_word\";s:4:\"ccud\";s:40:\"season_stars,acappella,pell,media,ccplus\";s:7:\"systags\";s:88:\"attribution,audio,mp3,48k,stereo,VBR,audio,flac,48k,stereo,VBR,audio,flac,48k,stereo,VBR\";s:3:\"bpm\";s:0:\"\";s:9:\"featuring\";s:9:\"Snowflake\";s:6:\"ccplus\";b:1;s:12:\"relative_dir\";s:12:\"content/mwic\";s:4:\"nsfw\";b:0;s:7:\"last_op\";s:3:\"add\";s:11:\"num_reviews\";i:4;}",
+    "files": [
+      {
+        "file_id": 123158,
+        "file_upload": 69189,
+        "file_name": "mwic_-_Gift_of_the_Magi.mp3",
+        "file_nicname": "mp3",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "48k",
+          "ch": "stereo",
+          "ps": "11:26",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "sha1": "75BQMAVLZCPNUNQMHC5OT7U63WXAEMQO"
+        },
+        "file_filesize": " (10.08MB)",
+        "file_order": 0,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/mwic/mwic_-_Gift_of_the_Magi.mp3",
+        "local_path": "/var/www/ccmixter/content/mwic/mwic_-_Gift_of_the_Magi.mp3",
+        "file_rawsize": 10565208
+      },
+      {
+        "file_id": 123159,
+        "file_upload": 69189,
+        "file_name": "mwic_-_Gift_of_the_Magi.flac",
+        "file_nicname": "narration",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "48k",
+          "ch": "stereo",
+          "ps": "11:26",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "sha1": "A4U2OR534MPW2DZHWVM53RMLSK65NHYB"
+        },
+        "file_filesize": " (31.83MB)",
+        "file_order": 1,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/mwic/mwic_-_Gift_of_the_Magi.flac",
+        "local_path": "/var/www/ccmixter/content/mwic/mwic_-_Gift_of_the_Magi.flac",
+        "file_rawsize": 33379877
+      },
+      {
+        "file_id": 123160,
+        "file_upload": 69189,
+        "file_name": "mwic_-_Gift_of_the_Magi_1.flac",
+        "file_nicname": "Della",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "48k",
+          "ch": "stereo",
+          "ps": "10:15",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "sha1": "MNYR3IGWBVIQPDSPC37LN2HQRTZKLCMD"
+        },
+        "file_filesize": " (18.81MB)",
+        "file_order": 2,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/mwic/mwic_-_Gift_of_the_Magi_1.flac",
+        "local_path": "/var/www/ccmixter/content/mwic/mwic_-_Gift_of_the_Magi_1.flac",
+        "file_rawsize": 19721248
+      }
+    ],
+    "download_url": "https://ccmixter.org/content/mwic/mwic_-_Gift_of_the_Magi.mp3"
+  },
+  {
+    "upload_id": 62447,
+    "file_page_url": "https://ccmixter.org/files/JeffSpeed68/62447",
+    "upload_name": "Delta Blues Ac",
+    "upload_date": "2020-10-23 07:09:48",
+    "artist_page_url": "https://ccmixter.org/people/JeffSpeed68",
+    "user_real_name": "Stefan Kartenberg",
+    "user_name": "JeffSpeed68",
+    "upload_extra": "a:9:{s:8:\"usertags\";s:35:\"drums,guitar,bass,instrumental,rock\";s:4:\"ccud\";s:31:\"sample,media,bpm_090_095,ccplus\";s:7:\"systags\";s:77:\"non_commercial,audio,mp3,44k,stereo,VBR,audio,flac,44k,stereo,VBR,archive,zip\";s:4:\"nsfw\";b:0;s:6:\"ccplus\";b:1;s:12:\"relative_dir\";s:19:\"content/JeffSpeed68\";s:3:\"bpm\";s:2:\"92\";s:9:\"featuring\";s:0:\"\";s:7:\"last_op\";s:3:\"add\";}",
+    "files": [
+      {
+        "file_id": 105202,
+        "file_upload": 62447,
+        "file_name": "JeffSpeed68_-_Delta_Blues_Ac.mp3",
+        "file_nicname": "mp3",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "3:21",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "sha1": "53YTTYNQEPUGHAG4MFXRJB3NK3VYRFR3"
+        },
+        "file_filesize": " (3.07MB)",
+        "file_order": 0,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/JeffSpeed68/JeffSpeed68_-_Delta_Blues_Ac.mp3",
+        "local_path": "/var/www/ccmixter/content/JeffSpeed68/JeffSpeed68_-_Delta_Blues_Ac.mp3",
+        "file_rawsize": 3218956
+      },
+      {
+        "file_id": 105203,
+        "file_upload": 62447,
+        "file_name": "JeffSpeed68_-_Delta_Blues_Ac.flac",
+        "file_nicname": "Delta Blues Ac",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "3:21",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "sha1": "MSK5DE5NRXC7EDUGX4EEIFJ2FSXKW4HQ"
+        },
+        "file_filesize": " (23.95MB)",
+        "file_order": 1,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/JeffSpeed68/JeffSpeed68_-_Delta_Blues_Ac.flac",
+        "local_path": "/var/www/ccmixter/content/JeffSpeed68/JeffSpeed68_-_Delta_Blues_Ac.flac",
+        "file_rawsize": 25116754
+      },
+      {
+        "file_id": 105204,
+        "file_upload": 62447,
+        "file_name": "JeffSpeed68_-_Delta_Blues_Ac.zip",
+        "file_nicname": "stems",
+        "file_format_info": {
+          "media-type": "archive",
+          "format-name": "archive-zip-",
+          "default-ext": "zip",
+          "mime_type": "application/zip",
+          "zipdir": {
+            "files": [
+              "/12 str mrlo.mp3  (2.71MB)",
+              "/12 string.mp3  (3.05MB)",
+              "/bass drum snare.mp3  (2.95MB)",
+              "/Bass_03.mp3  (2.72MB)",
+              "/congas.mp3  (165.13KB)",
+              "/hi hat.mp3  (2.95MB)",
+              "/overhead.mp3  (3.03MB)",
+              "/ride.mp3  (2.07MB)",
+              "/tambourine.mp3  (3.03MB)",
+              "/v a 1.mp3  (3.03MB)",
+              "/v a 2 fx.mp3  (3.03MB)",
+              "/v a 2.mp3  (3.03MB)",
+              "/v e g.mp3  (3.03MB)"
+            ]
+          }
+        },
+        "file_extra": {
+          "sha1": "CG56C4TAC6ZISQIWDWEKBZ2QFJNHBP7F"
+        },
+        "file_filesize": " (31.26MB)",
+        "file_order": 2,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/JeffSpeed68/JeffSpeed68_-_Delta_Blues_Ac.zip",
+        "local_path": "/var/www/ccmixter/content/JeffSpeed68/JeffSpeed68_-_Delta_Blues_Ac.zip",
+        "file_rawsize": 32780599
+      }
+    ],
+    "download_url": "https://ccmixter.org/content/JeffSpeed68/JeffSpeed68_-_Delta_Blues_Ac.mp3"
+  },
+  {
+    "upload_id": 61649,
+    "file_page_url": "https://ccmixter.org/files/Karstenholymoly/61649",
+    "upload_name": "New Earth",
+    "upload_date": "2020-05-20 18:59:39",
+    "artist_page_url": "https://ccmixter.org/people/Karstenholymoly",
+    "user_real_name": "Kraftamt",
+    "user_name": "Karstenholymoly",
+    "upload_extra": "a:9:{s:8:\"usertags\";s:63:\"electronic,electro,techno,music_for_film,synthesizer,edm,trance\";s:4:\"ccud\";s:30:\"media,remix,bpm_125_130,ccplus\";s:7:\"systags\";s:148:\"non_commercial,audio,mp3,44k,stereo,CBR,archive,zip,archive,zip,archive,zip,archive,zip,archive,zip,archive,zip,archive,zip,audio,mp3,44k,stereo,CBR\";s:4:\"nsfw\";b:0;s:12:\"relative_dir\";s:23:\"content/Karstenholymoly\";s:3:\"bpm\";s:3:\"126\";s:9:\"featuring\";s:9:\"Snowflake\";s:7:\"last_op\";s:7:\"replace\";s:11:\"num_reviews\";i:3;}",
+    "files": [
+      {
+        "file_id": 103295,
+        "file_upload": 61649,
+        "file_name": "Karstenholymoly_-_New_Earth_1.mp3",
+        "file_nicname": "mp3",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:55",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "sha1": "2AVZI4EKT7V2OI7NC7JCFKXFWQKFRYQS",
+          "ccud": "",
+          "type": ""
+        },
+        "file_filesize": " (11.27MB)",
+        "file_order": 0,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/Karstenholymoly/Karstenholymoly_-_New_Earth_1.mp3",
+        "local_path": "/var/www/ccmixter/content/Karstenholymoly/Karstenholymoly_-_New_Earth_1.mp3",
+        "file_rawsize": 11816795
+      },
+      {
+        "file_id": 103296,
+        "file_upload": 61649,
+        "file_name": "Karstenholymoly_-_New_Earth_3.zip",
+        "file_nicname": "Padsounds",
+        "file_format_info": {
+          "media-type": "archive",
+          "format-name": "archive-zip-",
+          "default-ext": "zip",
+          "mime_type": "application/zip",
+          "zipdir": {
+            "files": [
+              "/Mixdown_Pad_01.flac  (4.68MB)",
+              "/Mixdown_Pad_02.flac  (4.57MB)",
+              "/Mixdown_Pad_03.flac  (4.63MB)",
+              "/Mixdown_Pad_04.flac  (2.61MB)",
+              "/Mixdown_Pad_05.flac  (2.98MB)",
+              "/Mixdown_Pad_06.flac  (3.19MB)"
+            ]
+          }
+        },
+        "file_extra": {
+          "sha1": "UK4G36IJS2BKAWS7ZVZ65EBEIDZMRQ62",
+          "ccud": "sample,media",
+          "type": "samples"
+        },
+        "file_filesize": " (18.22MB)",
+        "file_order": 1,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/Karstenholymoly/Karstenholymoly_-_New_Earth_3.zip",
+        "local_path": "/var/www/ccmixter/content/Karstenholymoly/Karstenholymoly_-_New_Earth_3.zip",
+        "file_rawsize": 19100147
+      },
+      {
+        "file_id": 103297,
+        "file_upload": 61649,
+        "file_name": "Karstenholymoly_-_New_Earth_4.zip",
+        "file_nicname": "Roland TR-909 Sounds",
+        "file_format_info": {
+          "media-type": "archive",
+          "format-name": "archive-zip-",
+          "default-ext": "zip",
+          "mime_type": "application/zip",
+          "zipdir": {
+            "files": [
+              "/Mixdown_909 Hihat_11.flac  (3.94MB)",
+              "/Mixdown_909 Ride_Cymbal_10.flac  (3.81MB)",
+              "/Mixdown_TR 909 Cym_2.flac  (4.28MB)",
+              "/Mixdown_TR 909 Sna_1.flac  (4.62MB)"
+            ]
+          }
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "MPWPKODAT6S2X4WLPHOXWOGHTI5EYUZQ"
+        },
+        "file_filesize": " (13.57MB)",
+        "file_order": 2,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/Karstenholymoly/Karstenholymoly_-_New_Earth_4.zip",
+        "local_path": "/var/www/ccmixter/content/Karstenholymoly/Karstenholymoly_-_New_Earth_4.zip",
+        "file_rawsize": 14230604
+      },
+      {
+        "file_id": 103298,
+        "file_upload": 61649,
+        "file_name": "Karstenholymoly_-_New_Earth_5.zip",
+        "file_nicname": "Bass-Sounds",
+        "file_format_info": {
+          "media-type": "archive",
+          "format-name": "archive-zip-",
+          "default-ext": "zip",
+          "mime_type": "application/zip",
+          "zipdir": {
+            "files": [
+              "/Mixdown_Bass_5.flac  (6.30MB)",
+              "/Mixdown_Lead_Bass_01_9.flac  (11.52MB)",
+              "/Mixdown_Lead_Bass_02_7.flac  (13.64MB)",
+              "/Mixdown_Lead_Bass_03_6.flac  (12.80MB)"
+            ]
+          }
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "LYCDBACBT4Q5VMI6JESLSX7L2VZR7XGZ"
+        },
+        "file_filesize": " (43.07MB)",
+        "file_order": 3,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/Karstenholymoly/Karstenholymoly_-_New_Earth_5.zip",
+        "local_path": "/var/www/ccmixter/content/Karstenholymoly/Karstenholymoly_-_New_Earth_5.zip",
+        "file_rawsize": 45164513
+      },
+      {
+        "file_id": 103299,
+        "file_upload": 61649,
+        "file_name": "Karstenholymoly_-_New_Earth_6.zip",
+        "file_nicname": "Lead Sound",
+        "file_format_info": {
+          "media-type": "archive",
+          "format-name": "archive-zip-",
+          "default-ext": "zip",
+          "mime_type": "application/zip",
+          "zipdir": {
+            "files": [
+              "/Mixdown_Main Lead_8.flac  (11.07MB)"
+            ]
+          }
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "YQK5P3D7FMSQOV5EQMMK3XQ3LZCRBWUS"
+        },
+        "file_filesize": " (10.66MB)",
+        "file_order": 4,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/Karstenholymoly/Karstenholymoly_-_New_Earth_6.zip",
+        "local_path": "/var/www/ccmixter/content/Karstenholymoly/Karstenholymoly_-_New_Earth_6.zip",
+        "file_rawsize": 11173564
+      },
+      {
+        "file_id": 103300,
+        "file_upload": 61649,
+        "file_name": "Karstenholymoly_-_New_Earth_7.zip",
+        "file_nicname": "Vocals",
+        "file_format_info": {
+          "media-type": "archive",
+          "format-name": "archive-zip-",
+          "default-ext": "zip",
+          "mime_type": "application/zip",
+          "zipdir": {
+            "files": [
+              "/Mixdown_Vocal 01_1.flac  (9.89MB)",
+              "/Mixdown_Vocal 02_1.flac  (6.08MB)"
+            ]
+          }
+        },
+        "file_extra": {
+          "ccud": "acappella,media",
+          "type": "pella",
+          "sha1": "3PF7VHBTCS65OU3W5SLULO4UINFW2SZH"
+        },
+        "file_filesize": " (13.67MB)",
+        "file_order": 5,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/Karstenholymoly/Karstenholymoly_-_New_Earth_7.zip",
+        "local_path": "/var/www/ccmixter/content/Karstenholymoly/Karstenholymoly_-_New_Earth_7.zip",
+        "file_rawsize": 14339077
+      },
+      {
+        "file_id": 103301,
+        "file_upload": 61649,
+        "file_name": "Karstenholymoly_-_New_Earth.zip",
+        "file_nicname": "Drumloops",
+        "file_format_info": {
+          "media-type": "archive",
+          "format-name": "archive-zip-",
+          "default-ext": "zip",
+          "mime_type": "application/zip",
+          "zipdir": {
+            "files": [
+              "/Mixdown_Drumloop_0_1.flac  (13.91MB)",
+              "/Mixdown_Drumloop_0_2.flac  (15.77MB)",
+              "/Mixdown_Drumloop_0_3.flac  (14.27MB)"
+            ]
+          }
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "BE5DW6KOS7KNYZRMQVU6YVT7GWZ6U26W"
+        },
+        "file_filesize": " (42.40MB)",
+        "file_order": 6,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/Karstenholymoly/Karstenholymoly_-_New_Earth.zip",
+        "local_path": "/var/www/ccmixter/content/Karstenholymoly/Karstenholymoly_-_New_Earth.zip",
+        "file_rawsize": 44455396
+      },
+      {
+        "file_id": 103302,
+        "file_upload": 61649,
+        "file_name": "Karstenholymoly_-_New_Earth_1.zip",
+        "file_nicname": "Drumloops and FX",
+        "file_format_info": {
+          "media-type": "archive",
+          "format-name": "archive-zip-",
+          "default-ext": "zip",
+          "mime_type": "application/zip",
+          "zipdir": {
+            "files": [
+              "/Mixdown_Drumloop_0_4.flac  (11.08MB)",
+              "/Mixdown_FX_01.flac  (1.29MB)"
+            ]
+          }
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "LJSKNFFHF6EGZFA4P2MWNRIYNRPNSBD2"
+        },
+        "file_filesize": " (11.74MB)",
+        "file_order": 7,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/Karstenholymoly/Karstenholymoly_-_New_Earth_1.zip",
+        "local_path": "/var/www/ccmixter/content/Karstenholymoly/Karstenholymoly_-_New_Earth_1.zip",
+        "file_rawsize": 12308689
+      },
+      {
+        "file_id": 103303,
+        "file_upload": 61649,
+        "file_name": "Karstenholymoly_-_New_Earth_2.mp3",
+        "file_nicname": "Song without Vocals",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:55",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "IVYAJGSVG3WUFV7UXOFPHMACDGZSIHT5"
+        },
+        "file_filesize": " (11.27MB)",
+        "file_order": 8,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/Karstenholymoly/Karstenholymoly_-_New_Earth_2.mp3",
+        "local_path": "/var/www/ccmixter/content/Karstenholymoly/Karstenholymoly_-_New_Earth_2.mp3",
+        "file_rawsize": 11816795
+      }
+    ],
+    "download_url": "https://ccmixter.org/content/Karstenholymoly/Karstenholymoly_-_New_Earth_1.mp3"
+  },
+  {
+    "upload_id": 52275,
+    "file_page_url": "https://ccmixter.org/files/Vidian/52275",
+    "upload_name": "Unseen",
+    "upload_date": "2015-11-23 15:27:15",
+    "artist_page_url": "https://ccmixter.org/people/Vidian",
+    "user_real_name": "Vidian",
+    "user_name": "Vidian",
+    "upload_extra": "a:9:{s:8:\"usertags\";s:68:\"male_vocals,electronic,synthesizer,instrumental,loops,electro,techno\";s:4:\"ccud\";s:30:\"media,remix,bpm_110_115,ccplus\";s:7:\"systags\";s:76:\"non_commercial,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,archive,zip\";s:9:\"featuring\";s:5:\"Speck\";s:12:\"relative_dir\";s:14:\"content/Vidian\";s:3:\"bpm\";s:3:\"110\";s:4:\"nsfw\";b:0;s:7:\"last_op\";s:7:\"replace\";s:6:\"ccplus\";b:1;}",
+    "files": [
+      {
+        "file_id": 81877,
+        "file_upload": 52275,
+        "file_name": "Vidian_-_Unseen.mp3",
+        "file_nicname": "mp3",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "3:30",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "sha1": "3M6PGR362TJJ3R4SDIVHETN5V3WTSARN",
+          "ccud": "",
+          "type": ""
+        },
+        "file_filesize": " (4.00MB)",
+        "file_order": 0,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/Vidian/Vidian_-_Unseen.mp3",
+        "local_path": "/var/www/ccmixter/content/Vidian/Vidian_-_Unseen.mp3",
+        "file_rawsize": 4194265
+      },
+      {
+        "file_id": 81879,
+        "file_upload": 52275,
+        "file_name": "Vidian_-_Unseen_1.mp3",
+        "file_nicname": "Voxless",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "3:30",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "alternate",
+          "type": "alternate",
+          "sha1": "BMJBGK3ICHUTTGAXK4JEP5PA6LFNZBCR"
+        },
+        "file_filesize": " (4.00MB)",
+        "file_order": 1,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/Vidian/Vidian_-_Unseen_1.mp3",
+        "local_path": "/var/www/ccmixter/content/Vidian/Vidian_-_Unseen_1.mp3",
+        "file_rawsize": 4194265
+      },
+      {
+        "file_id": 81878,
+        "file_upload": 52275,
+        "file_name": "Vidian_-_Unseen.zip",
+        "file_nicname": "Samples",
+        "file_format_info": {
+          "media-type": "archive",
+          "format-name": "archive-zip-",
+          "default-ext": "zip",
+          "mime_type": "application/zip",
+          "zipdir": {
+            "files": [
+              "/BadDelayHHtz_110.wav  (2.94MB)",
+              "/BassBeats_110.wav  (1.47MB)",
+              "/FluteChords_110.wav  (2.94MB)",
+              "/GritSynth_110.wav  (3.67MB)",
+              "/Lownotes_110.wav  (2.94MB)",
+              "/Percs_110.wav  (1.47MB)",
+              "/PluckSynth_110.wav  (2.20MB)",
+              "/RhodeNotes_110.wav  (6.24MB)",
+              "/SynthChords_110.wav  (3.12MB)"
+            ]
+          }
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "FAPLOUARDBSOH5PQ42TBHM4CLYVPP6QL"
+        },
+        "file_filesize": " (18.31MB)",
+        "file_order": 2,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/Vidian/Vidian_-_Unseen.zip",
+        "local_path": "/var/www/ccmixter/content/Vidian/Vidian_-_Unseen.zip",
+        "file_rawsize": 19203370
+      }
+    ],
+    "download_url": "https://ccmixter.org/content/Vidian/Vidian_-_Unseen.mp3"
+  },
+  {
+    "upload_id": 44037,
+    "file_page_url": "https://ccmixter.org/files/doxent/44037",
+    "upload_name": "Acoustic Trippy Loops Pack 91bpm",
+    "upload_date": "2013-10-30 16:17:57",
+    "artist_page_url": "https://ccmixter.org/people/doxent",
+    "user_real_name": "Doxent Zsigmond",
+    "user_name": "doxent",
+    "upload_extra": "a:9:{s:8:\"usertags\";s:67:\"percussion,rhythm,trip_hop,trippy,drums,loops,experimental,acoustic\";s:4:\"ccud\";s:31:\"sample,media,bpm_090_095,ccplus\";s:7:\"systags\";s:48:\"attribution,archive,zip,audio,mp3,44k,stereo,CBR\";s:9:\"featuring\";s:0:\"\";s:3:\"bpm\";s:2:\"91\";s:12:\"relative_dir\";s:14:\"content/doxent\";s:4:\"nsfw\";b:0;s:7:\"last_op\";s:3:\"add\";s:6:\"ccplus\";b:1;}",
+    "files": [
+      {
+        "file_id": 64229,
+        "file_upload": 44037,
+        "file_name": "doxent_-_Acoustic_Trippy_Loops_Pack_91bpm.zip",
+        "file_nicname": "zip",
+        "file_format_info": {
+          "media-type": "archive",
+          "format-name": "archive-zip-",
+          "default-ext": "zip",
+          "mime_type": "application/zip",
+          "zipdir": {
+            "files": [
+              "/TRIPPY LOOPS PACK/magnes-loop.flac  (2.43MB)",
+              "/TRIPPY LOOPS PACK/trippy-destapler.flac  (1.69MB)",
+              "/TRIPPY LOOPS PACK/trippy-drum.flac  (2.65MB)"
+            ]
+          }
+        },
+        "file_extra": {
+          "sha1": "O63BL4NBMESICAYLMJWV3OUORSKXZ7XF"
+        },
+        "file_filesize": " (6.26MB)",
+        "file_order": 0,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/doxent/doxent_-_Acoustic_Trippy_Loops_Pack_91bpm.zip",
+        "local_path": "/var/www/ccmixter/content/doxent/doxent_-_Acoustic_Trippy_Loops_Pack_91bpm.zip",
+        "file_rawsize": 6559981
+      },
+      {
+        "file_id": 64230,
+        "file_upload": 44037,
+        "file_name": "doxent_-_Acoustic_Trippy_Loops_Pack_91bpm.mp3",
+        "file_nicname": "Rough Mix",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "1:12",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "rough_mix",
+          "type": "rough_mix",
+          "sha1": "QMLXXKXEQRELPAKYRCPVX3SZA6MC3XR7"
+        },
+        "file_filesize": " (1.10MB)",
+        "file_order": 1,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/doxent/doxent_-_Acoustic_Trippy_Loops_Pack_91bpm.mp3",
+        "local_path": "/var/www/ccmixter/content/doxent/doxent_-_Acoustic_Trippy_Loops_Pack_91bpm.mp3",
+        "file_rawsize": 1149432
+      }
+    ],
+    "download_url": "https://ccmixter.org/content/doxent/doxent_-_Acoustic_Trippy_Loops_Pack_91bpm.zip"
+  },
+  {
+    "upload_id": 42118,
+    "file_page_url": "https://ccmixter.org/files/copperhead/42118",
+    "upload_name": "Big John stems",
+    "upload_date": "2013-04-21 09:08:33",
+    "artist_page_url": "https://ccmixter.org/people/copperhead",
+    "user_real_name": "copperhead",
+    "user_name": "copperhead",
+    "upload_extra": "a:9:{s:8:\"usertags\";s:27:\"drums,bass,banjo,percussion\";s:4:\"ccud\";s:46:\"music_identity,sample,media,bpm_105_110,ccplus\";s:7:\"systags\";s:189:\"non_commercial,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR\";s:9:\"featuring\";s:9:\"Snowflake\";s:3:\"bpm\";s:3:\"106\";s:12:\"relative_dir\";s:18:\"content/copperhead\";s:4:\"nsfw\";b:0;s:7:\"last_op\";s:3:\"add\";s:6:\"ccplus\";b:1;}",
+    "files": [
+      {
+        "file_id": 61022,
+        "file_upload": 42118,
+        "file_name": "copperhead_-_Big_John_stems.mp3",
+        "file_nicname": "mix",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "2:08",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "sha1": "7WIUTR463H224WW5SORYMMGN3PK47ILV"
+        },
+        "file_filesize": " (4.88MB)",
+        "file_order": 0,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/copperhead/copperhead_-_Big_John_stems.mp3",
+        "local_path": "/var/www/ccmixter/content/copperhead/copperhead_-_Big_John_stems.mp3",
+        "file_rawsize": 5116910
+      },
+      {
+        "file_id": 61016,
+        "file_upload": 42118,
+        "file_name": "copperhead_-_Big_John_stems_1.mp3",
+        "file_nicname": "drums",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "2:08",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "sha1": "KFXFNUNAPCJHT3BSZO5VFIRNF6JZVYGX"
+        },
+        "file_filesize": " (4.88MB)",
+        "file_order": 1,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/copperhead/copperhead_-_Big_John_stems_1.mp3",
+        "local_path": "/var/www/ccmixter/content/copperhead/copperhead_-_Big_John_stems_1.mp3",
+        "file_rawsize": 5116910
+      },
+      {
+        "file_id": 61017,
+        "file_upload": 42118,
+        "file_name": "copperhead_-_Big_John_stems_2.mp3",
+        "file_nicname": "banjo",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "2:08",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "sha1": "RK5VZD3ANYB4N4C3RTJ3ETV2RGXZY7K3"
+        },
+        "file_filesize": " (4.88MB)",
+        "file_order": 2,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/copperhead/copperhead_-_Big_John_stems_2.mp3",
+        "local_path": "/var/www/ccmixter/content/copperhead/copperhead_-_Big_John_stems_2.mp3",
+        "file_rawsize": 5116910
+      },
+      {
+        "file_id": 61018,
+        "file_upload": 42118,
+        "file_name": "copperhead_-_Big_John_stems_3.mp3",
+        "file_nicname": "bass",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "2:08",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "sha1": "XTPP3YUNB4OIHTEEX7YHO7T6A2CY5JIP"
+        },
+        "file_filesize": " (4.88MB)",
+        "file_order": 3,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/copperhead/copperhead_-_Big_John_stems_3.mp3",
+        "local_path": "/var/www/ccmixter/content/copperhead/copperhead_-_Big_John_stems_3.mp3",
+        "file_rawsize": 5116910
+      },
+      {
+        "file_id": 61019,
+        "file_upload": 42118,
+        "file_name": "copperhead_-_Big_John_stems_4.mp3",
+        "file_nicname": "shaker",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "0:05",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "sha1": "2U57F2KQNK7NZ3LBMWYEGC6T73R5RCYB"
+        },
+        "file_filesize": " (183KB)",
+        "file_order": 4,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/copperhead/copperhead_-_Big_John_stems_4.mp3",
+        "local_path": "/var/www/ccmixter/content/copperhead/copperhead_-_Big_John_stems_4.mp3",
+        "file_rawsize": 187082
+      },
+      {
+        "file_id": 61020,
+        "file_upload": 42118,
+        "file_name": "copperhead_-_Big_John_stems_5.mp3",
+        "file_nicname": "tamb 1",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "0:09",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "sha1": "GZD5E3WXAHSOYLZTJLRRGTYY3BUYIG3R"
+        },
+        "file_filesize": " (359KB)",
+        "file_order": 5,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/copperhead/copperhead_-_Big_John_stems_5.mp3",
+        "local_path": "/var/www/ccmixter/content/copperhead/copperhead_-_Big_John_stems_5.mp3",
+        "file_rawsize": 367849
+      },
+      {
+        "file_id": 61021,
+        "file_upload": 42118,
+        "file_name": "copperhead_-_Big_John_stems_6.mp3",
+        "file_nicname": "tamb 2",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "0:05",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "sha1": "PGD4VINTE4VQU26PKG7VUWJTX3OZHRAP"
+        },
+        "file_filesize": " (183KB)",
+        "file_order": 6,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/copperhead/copperhead_-_Big_John_stems_6.mp3",
+        "local_path": "/var/www/ccmixter/content/copperhead/copperhead_-_Big_John_stems_6.mp3",
+        "file_rawsize": 187082
+      }
+    ],
+    "download_url": "https://ccmixter.org/content/copperhead/copperhead_-_Big_John_stems.mp3"
+  },
+  {
+    "upload_id": 30344,
+    "file_page_url": "https://ccmixter.org/files/AlexBeroza/30344",
+    "upload_name": "Art Now",
+    "upload_date": "2011-01-30 09:27:43",
+    "artist_page_url": "https://ccmixter.org/people/AlexBeroza",
+    "user_real_name": "Alex",
+    "user_name": "AlexBeroza",
+    "upload_extra": "a:10:{s:8:\"usertags\";s:36:\"bass,drums,synthesizer,techno,trance\";s:4:\"ccud\";s:98:\"media,emergence_artlab,remix,trackback,in_video,in_web,in_podcast,bpm_125_130,in_soundcloud,ccplus\";s:7:\"systags\";s:312:\"attribution,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,flac,44k,stereo,VBR\";s:9:\"featuring\";s:9:\"Snowflake\";s:4:\"nsfw\";b:0;s:3:\"bpm\";s:3:\"125\";s:12:\"relative_dir\";s:18:\"content/AlexBeroza\";s:7:\"last_op\";s:3:\"add\";s:11:\"num_reviews\";i:15;s:6:\"ccplus\";b:1;}",
+    "files": [
+      {
+        "file_id": 37921,
+        "file_upload": 30344,
+        "file_name": "AlexBeroza_-_Art_Now.mp3",
+        "file_nicname": "mp3",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:01",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "sha1": "5KUV4PAYNCPMPKR6XOQ3P2GUAYZD7HC5",
+          "ccud": "",
+          "type": ""
+        },
+        "file_filesize": " (9.20MB)",
+        "file_order": 0,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/AlexBeroza/AlexBeroza_-_Art_Now.mp3",
+        "local_path": "/var/www/ccmixter/content/AlexBeroza/AlexBeroza_-_Art_Now.mp3",
+        "file_rawsize": 9649677
+      },
+      {
+        "file_id": 37922,
+        "file_upload": 30344,
+        "file_name": "AlexBeroza_-_Art_Now_10.mp3",
+        "file_nicname": "instrumental",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:00",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "sha1": "AB33XHY223O3RY7PGLAXQIOHZ5ISHDBS",
+          "ccud": "media,emergence_artlab,sample,samples",
+          "type": "emergencesamples"
+        },
+        "file_filesize": " (9.17MB)",
+        "file_order": 1,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/AlexBeroza/AlexBeroza_-_Art_Now_10.mp3",
+        "local_path": "/var/www/ccmixter/content/AlexBeroza/AlexBeroza_-_Art_Now_10.mp3",
+        "file_rawsize": 9616240
+      },
+      {
+        "file_id": 37949,
+        "file_upload": 30344,
+        "file_name": "AlexBeroza_-_Art_Now_11.mp3",
+        "file_nicname": "bass",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:01",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "media,emergence_artlab,sample,samples",
+          "type": "emergencesamples",
+          "sha1": "F5CZCVIKWJI6YI3GPWYKWENUPBUSAJ6R"
+        },
+        "file_filesize": " (7.36MB)",
+        "file_order": 2,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/AlexBeroza/AlexBeroza_-_Art_Now_11.mp3",
+        "local_path": "/var/www/ccmixter/content/AlexBeroza/AlexBeroza_-_Art_Now_11.mp3",
+        "file_rawsize": 7720586
+      },
+      {
+        "file_id": 37950,
+        "file_upload": 30344,
+        "file_name": "AlexBeroza_-_Art_Now_1.mp3",
+        "file_nicname": "drums",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:01",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "media,emergence_artlab,sample,samples",
+          "type": "emergencesamples",
+          "sha1": "JKHRZRLL3ZTPMVYLLPC6BVM7L7YXOZER"
+        },
+        "file_filesize": " (7.36MB)",
+        "file_order": 3,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/AlexBeroza/AlexBeroza_-_Art_Now_1.mp3",
+        "local_path": "/var/www/ccmixter/content/AlexBeroza/AlexBeroza_-_Art_Now_1.mp3",
+        "file_rawsize": 7720586
+      },
+      {
+        "file_id": 37951,
+        "file_upload": 30344,
+        "file_name": "AlexBeroza_-_Art_Now_2.mp3",
+        "file_nicname": "fx synth chop",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:01",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "media,emergence_artlab,sample,samples",
+          "type": "emergencesamples",
+          "sha1": "K4YIC63EYTMLQ2YKEPQWD5RMKOLOVS4C"
+        },
+        "file_filesize": " (7.36MB)",
+        "file_order": 4,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/AlexBeroza/AlexBeroza_-_Art_Now_2.mp3",
+        "local_path": "/var/www/ccmixter/content/AlexBeroza/AlexBeroza_-_Art_Now_2.mp3",
+        "file_rawsize": 7720586
+      },
+      {
+        "file_id": 37952,
+        "file_upload": 30344,
+        "file_name": "AlexBeroza_-_Art_Now_3.mp3",
+        "file_nicname": "pad",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:01",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "media,emergence_artlab,sample,samples",
+          "type": "emergencesamples",
+          "sha1": "YJ7SUUQMEOIXKUFACYO6RQGU4D7XCZ7V"
+        },
+        "file_filesize": " (7.36MB)",
+        "file_order": 5,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/AlexBeroza/AlexBeroza_-_Art_Now_3.mp3",
+        "local_path": "/var/www/ccmixter/content/AlexBeroza/AlexBeroza_-_Art_Now_3.mp3",
+        "file_rawsize": 7720586
+      },
+      {
+        "file_id": 37953,
+        "file_upload": 30344,
+        "file_name": "AlexBeroza_-_Art_Now_4.mp3",
+        "file_nicname": "synth hits",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:01",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "media,emergence_artlab,sample,samples",
+          "type": "emergencesamples",
+          "sha1": "DYWYNJWGJH7TEHLKI5H6WMFMEZQ3C25H"
+        },
+        "file_filesize": " (7.36MB)",
+        "file_order": 6,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/AlexBeroza/AlexBeroza_-_Art_Now_4.mp3",
+        "local_path": "/var/www/ccmixter/content/AlexBeroza/AlexBeroza_-_Art_Now_4.mp3",
+        "file_rawsize": 7720586
+      },
+      {
+        "file_id": 37954,
+        "file_upload": 30344,
+        "file_name": "AlexBeroza_-_Art_Now_5.mp3",
+        "file_nicname": "synth1",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:01",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "media,emergence_artlab,sample,samples",
+          "type": "emergencesamples",
+          "sha1": "DF4SWNTR5S55MHFCH3TF57SH462JZSRP"
+        },
+        "file_filesize": " (7.36MB)",
+        "file_order": 7,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/AlexBeroza/AlexBeroza_-_Art_Now_5.mp3",
+        "local_path": "/var/www/ccmixter/content/AlexBeroza/AlexBeroza_-_Art_Now_5.mp3",
+        "file_rawsize": 7720586
+      },
+      {
+        "file_id": 37955,
+        "file_upload": 30344,
+        "file_name": "AlexBeroza_-_Art_Now_6.mp3",
+        "file_nicname": "synth2",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:01",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "media,emergence_artlab,sample,samples",
+          "type": "emergencesamples",
+          "sha1": "4R4MNYNYAZR2IW2IWB54N2D3D5TJCBUC"
+        },
+        "file_filesize": " (7.36MB)",
+        "file_order": 8,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/AlexBeroza/AlexBeroza_-_Art_Now_6.mp3",
+        "local_path": "/var/www/ccmixter/content/AlexBeroza/AlexBeroza_-_Art_Now_6.mp3",
+        "file_rawsize": 7720586
+      },
+      {
+        "file_id": 37956,
+        "file_upload": 30344,
+        "file_name": "AlexBeroza_-_Art_Now_7.mp3",
+        "file_nicname": "synth3",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:01",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "media,emergence_artlab,sample,samples",
+          "type": "emergencesamples",
+          "sha1": "VGKNJ5KPP2GG2XPRYARLC3ECTXRX5JXI"
+        },
+        "file_filesize": " (7.36MB)",
+        "file_order": 9,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/AlexBeroza/AlexBeroza_-_Art_Now_7.mp3",
+        "local_path": "/var/www/ccmixter/content/AlexBeroza/AlexBeroza_-_Art_Now_7.mp3",
+        "file_rawsize": 7720586
+      },
+      {
+        "file_id": 37957,
+        "file_upload": 30344,
+        "file_name": "AlexBeroza_-_Art_Now_8.mp3",
+        "file_nicname": "synth4",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:01",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "media,emergence_artlab,sample,samples",
+          "type": "emergencesamples",
+          "sha1": "UXSVXMWKVP3G4P3XVQE6WWDSGABW5FVZ"
+        },
+        "file_filesize": " (7.36MB)",
+        "file_order": 10,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/AlexBeroza/AlexBeroza_-_Art_Now_8.mp3",
+        "local_path": "/var/www/ccmixter/content/AlexBeroza/AlexBeroza_-_Art_Now_8.mp3",
+        "file_rawsize": 7720586
+      },
+      {
+        "file_id": 38258,
+        "file_upload": 30344,
+        "file_name": "AlexBeroza_-_Art_Now.flac",
+        "file_nicname": "FLAC",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-flac-flac",
+          "default-ext": "flac",
+          "mime_type": "audio/x-flac",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "4:01",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "multiple_formats",
+          "type": "multiple_formats",
+          "sha1": "77SF5PXKBYTDXUNILY2YHKO6L32Z2ND5"
+        },
+        "file_filesize": " (27.71MB)",
+        "file_order": 11,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/AlexBeroza/AlexBeroza_-_Art_Now.flac",
+        "local_path": "/var/www/ccmixter/content/AlexBeroza/AlexBeroza_-_Art_Now.flac",
+        "file_rawsize": 29054872
+      }
+    ],
+    "download_url": "https://ccmixter.org/content/AlexBeroza/AlexBeroza_-_Art_Now.mp3"
+  },
+  {
+    "upload_id": 25275,
+    "file_page_url": "https://ccmixter.org/files/copperhead/25275",
+    "upload_name": "Don't Push Me",
+    "upload_date": "2010-02-12 21:22:46",
+    "artist_page_url": "https://ccmixter.org/people/copperhead",
+    "user_real_name": "copperhead",
+    "user_name": "copperhead",
+    "upload_extra": "a:10:{s:8:\"usertags\";s:81:\"bass,drums,electro,electronic,experimental,female_vocals,funky,guitar,rock,techno\";s:4:\"ccud\";s:30:\"media,remix,bpm_120_125,ccplus\";s:7:\"systags\";s:239:\"non_commercial,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,CBR\";s:9:\"featuring\";s:24:\"Anomaly Jonez, Jim Brady\";s:4:\"nsfw\";b:0;s:3:\"bpm\";s:3:\"120\";s:12:\"relative_dir\";s:18:\"content/copperhead\";s:11:\"num_reviews\";i:2;s:7:\"last_op\";s:3:\"add\";s:6:\"ccplus\";b:1;}",
+    "files": [
+      {
+        "file_id": 29633,
+        "file_upload": 25275,
+        "file_name": "copperhead_-_Don_t_Push_Me.mp3",
+        "file_nicname": "mp3",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "2:28",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "sha1": "NPRXQHH47FTFDALLBAVNYW5JO3BAXHMV"
+        },
+        "file_filesize": " (3.39MB)",
+        "file_order": 0,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/copperhead/copperhead_-_Don_t_Push_Me.mp3",
+        "local_path": "/var/www/ccmixter/content/copperhead/copperhead_-_Don_t_Push_Me.mp3",
+        "file_rawsize": 3550315
+      },
+      {
+        "file_id": 29831,
+        "file_upload": 25275,
+        "file_name": "copperhead_-_Don_t_Push_Me_8.mp3",
+        "file_nicname": "bass",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "2:28",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "CLJJ654CY4G7SR6KBPDSLCXTXXZF67K2"
+        },
+        "file_filesize": " (3.39MB)",
+        "file_order": 1,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/copperhead/copperhead_-_Don_t_Push_Me_8.mp3",
+        "local_path": "/var/www/ccmixter/content/copperhead/copperhead_-_Don_t_Push_Me_8.mp3",
+        "file_rawsize": 3550289
+      },
+      {
+        "file_id": 29832,
+        "file_upload": 25275,
+        "file_name": "copperhead_-_Don_t_Push_Me_9.mp3",
+        "file_nicname": "drums1",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "2:28",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "6QWQXVGJOBJNUZKS7ILH3UIZTIXUJFQP"
+        },
+        "file_filesize": " (3.39MB)",
+        "file_order": 2,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/copperhead/copperhead_-_Don_t_Push_Me_9.mp3",
+        "local_path": "/var/www/ccmixter/content/copperhead/copperhead_-_Don_t_Push_Me_9.mp3",
+        "file_rawsize": 3550325
+      },
+      {
+        "file_id": 29833,
+        "file_upload": 25275,
+        "file_name": "copperhead_-_Don_t_Push_Me_1.mp3",
+        "file_nicname": "drums2",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "2:28",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "WHYBWPRTNM2PUCXDAMT7EKUZE4U7S5O2"
+        },
+        "file_filesize": " (3.39MB)",
+        "file_order": 3,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/copperhead/copperhead_-_Don_t_Push_Me_1.mp3",
+        "local_path": "/var/www/ccmixter/content/copperhead/copperhead_-_Don_t_Push_Me_1.mp3",
+        "file_rawsize": 3550274
+      },
+      {
+        "file_id": 29834,
+        "file_upload": 25275,
+        "file_name": "copperhead_-_Don_t_Push_Me_2.mp3",
+        "file_nicname": "drums3",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "2:28",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "XNUUPR6F5FWBNTDSZ5MF3KCYV447BRZA"
+        },
+        "file_filesize": " (3.39MB)",
+        "file_order": 4,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/copperhead/copperhead_-_Don_t_Push_Me_2.mp3",
+        "local_path": "/var/www/ccmixter/content/copperhead/copperhead_-_Don_t_Push_Me_2.mp3",
+        "file_rawsize": 3550306
+      },
+      {
+        "file_id": 29835,
+        "file_upload": 25275,
+        "file_name": "copperhead_-_Don_t_Push_Me_3.mp3",
+        "file_nicname": "echo",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "0:16",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "NU35YRR4QAIKDGN2FKYPBDLIEMSIKYJ2"
+        },
+        "file_filesize": " (378KB)",
+        "file_order": 5,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/copperhead/copperhead_-_Don_t_Push_Me_3.mp3",
+        "local_path": "/var/www/ccmixter/content/copperhead/copperhead_-_Don_t_Push_Me_3.mp3",
+        "file_rawsize": 387146
+      },
+      {
+        "file_id": 29840,
+        "file_upload": 25275,
+        "file_name": "copperhead_-_Don_t_Push_Me_4.mp3",
+        "file_nicname": "Ping Pong",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "2:02",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "A25LJG5QJX5LF27HFRIUY7JLBO2XWDV5"
+        },
+        "file_filesize": " (2.79MB)",
+        "file_order": 6,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/copperhead/copperhead_-_Don_t_Push_Me_4.mp3",
+        "local_path": "/var/www/ccmixter/content/copperhead/copperhead_-_Don_t_Push_Me_4.mp3",
+        "file_rawsize": 2924284
+      },
+      {
+        "file_id": 29841,
+        "file_upload": 25275,
+        "file_name": "copperhead_-_Don_t_Push_Me_5.mp3",
+        "file_nicname": "monks",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "2:28",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "X6GZJU62YKAICS3FV4EK2LAH6ARFLNVK"
+        },
+        "file_filesize": " (3.39MB)",
+        "file_order": 7,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/copperhead/copperhead_-_Don_t_Push_Me_5.mp3",
+        "local_path": "/var/www/ccmixter/content/copperhead/copperhead_-_Don_t_Push_Me_5.mp3",
+        "file_rawsize": 3550351
+      },
+      {
+        "file_id": 29842,
+        "file_upload": 25275,
+        "file_name": "copperhead_-_Don_t_Push_Me_6.mp3",
+        "file_nicname": "gtr3",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "2:28",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "PMZFNYEMAFIGM5FOQSNKFP7MUSGAR7MU"
+        },
+        "file_filesize": " (3.39MB)",
+        "file_order": 8,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/copperhead/copperhead_-_Don_t_Push_Me_6.mp3",
+        "local_path": "/var/www/ccmixter/content/copperhead/copperhead_-_Don_t_Push_Me_6.mp3",
+        "file_rawsize": 3550291
+      }
+    ],
+    "download_url": "https://ccmixter.org/content/copperhead/copperhead_-_Don_t_Push_Me.mp3"
+  },
+  {
+    "upload_id": 23715,
+    "file_page_url": "https://ccmixter.org/files/fluffy/23715",
+    "upload_name": "Sorry to Inform You",
+    "upload_date": "2009-11-10 07:44:31",
+    "artist_page_url": "https://ccmixter.org/people/fluffy",
+    "user_real_name": "fluffy",
+    "user_name": "fluffy",
+    "upload_extra": "a:9:{s:8:\"usertags\";s:44:\"bass,dark,electronic,glitch,pads,synthesizer\";s:4:\"ccud\";s:31:\"sample,media,bpm_100_105,ccplus\";s:7:\"systags\";s:314:\"non_commercial,audio,mp3,44k,stereo,CBR,audio,mp3,44k,stereo,VBR,audio,mp3,44k,stereo,VBR,audio,mp3,44k,stereo,VBR,audio,mp3,44k,stereo,VBR,audio,mp3,44k,stereo,VBR,audio,mp3,44k,stereo,VBR,audio,mp3,44k,stereo,VBR,audio,mp3,44k,stereo,VBR,audio,mp3,44k,stereo,VBR,audio,mp3,44k,stereo,VBR,audio,mp3,44k,stereo,VBR\";s:9:\"featuring\";s:0:\"\";s:4:\"nsfw\";b:0;s:3:\"bpm\";s:3:\"100\";s:12:\"relative_dir\";s:14:\"content/fluffy\";s:7:\"last_op\";s:3:\"add\";s:6:\"ccplus\";b:1;}",
+    "files": [
+      {
+        "file_id": 67062,
+        "file_upload": 23715,
+        "file_name": "fluffy_-_Sorry_to_Inform_You_10.mp3",
+        "file_nicname": "full mix",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "2:39",
+          "br": "CBR"
+        },
+        "file_extra": {
+          "ccud": "preview",
+          "type": "preview",
+          "sha1": "5JWBZMR2L4X7L2L44KCBP4W3TFNDXKJD"
+        },
+        "file_filesize": " (6.28MB)",
+        "file_order": 0,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/fluffy/fluffy_-_Sorry_to_Inform_You_10.mp3",
+        "local_path": "/var/www/ccmixter/content/fluffy/fluffy_-_Sorry_to_Inform_You_10.mp3",
+        "file_rawsize": 6588636
+      },
+      {
+        "file_id": 27320,
+        "file_upload": 23715,
+        "file_name": "fluffy_-_Sorry_to_Inform_You.mp3",
+        "file_nicname": "sity-bass-dry",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "2:36",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "sha1": "SBBGPUXOTAW4MOII3DD7OJUFSAW5F5VY",
+          "ccud": "sample,media",
+          "type": "samples"
+        },
+        "file_filesize": " (3.73MB)",
+        "file_order": 1,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/fluffy/fluffy_-_Sorry_to_Inform_You.mp3",
+        "local_path": "/var/www/ccmixter/content/fluffy/fluffy_-_Sorry_to_Inform_You.mp3",
+        "file_rawsize": 3916027
+      },
+      {
+        "file_id": 27321,
+        "file_upload": 23715,
+        "file_name": "fluffy_-_Sorry_to_Inform_You_11.mp3",
+        "file_nicname": "sity-bass-fx",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "2:36",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "ZLPRBF6FE7ILU7NQF4BX7SXUFKNA7WKR"
+        },
+        "file_filesize": " (4.56MB)",
+        "file_order": 2,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/fluffy/fluffy_-_Sorry_to_Inform_You_11.mp3",
+        "local_path": "/var/www/ccmixter/content/fluffy/fluffy_-_Sorry_to_Inform_You_11.mp3",
+        "file_rawsize": 4786687
+      },
+      {
+        "file_id": 27322,
+        "file_upload": 23715,
+        "file_name": "fluffy_-_Sorry_to_Inform_You_1.mp3",
+        "file_nicname": "bell-1",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "0:38",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "O3CP5IRJV2OXSANHTKFUDXVZK3T55BZV"
+        },
+        "file_filesize": " (782KB)",
+        "file_order": 3,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/fluffy/fluffy_-_Sorry_to_Inform_You_1.mp3",
+        "local_path": "/var/www/ccmixter/content/fluffy/fluffy_-_Sorry_to_Inform_You_1.mp3",
+        "file_rawsize": 800564
+      },
+      {
+        "file_id": 27323,
+        "file_upload": 23715,
+        "file_name": "fluffy_-_Sorry_to_Inform_You_2.mp3",
+        "file_nicname": "bell-2",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "1:05",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "4MCCA4RC6BAPWIVKOVDILZDTF7LR46JQ"
+        },
+        "file_filesize": " (921KB)",
+        "file_order": 4,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/fluffy/fluffy_-_Sorry_to_Inform_You_2.mp3",
+        "local_path": "/var/www/ccmixter/content/fluffy/fluffy_-_Sorry_to_Inform_You_2.mp3",
+        "file_rawsize": 942948
+      },
+      {
+        "file_id": 27324,
+        "file_upload": 23715,
+        "file_name": "fluffy_-_Sorry_to_Inform_You_3.mp3",
+        "file_nicname": "bell-3",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "0:41",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "MVWCY3AMH7ANSKTO6RUFQADOOK46GI3P"
+        },
+        "file_filesize": " (789KB)",
+        "file_order": 5,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/fluffy/fluffy_-_Sorry_to_Inform_You_3.mp3",
+        "local_path": "/var/www/ccmixter/content/fluffy/fluffy_-_Sorry_to_Inform_You_3.mp3",
+        "file_rawsize": 807953
+      },
+      {
+        "file_id": 27325,
+        "file_upload": 23715,
+        "file_name": "fluffy_-_Sorry_to_Inform_You_4.mp3",
+        "file_nicname": "drums-dry",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "1:55",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "MOVJFPAIRPUQCJK7CXSTYEOGSLQUB2HH"
+        },
+        "file_filesize": " (2.19MB)",
+        "file_order": 6,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/fluffy/fluffy_-_Sorry_to_Inform_You_4.mp3",
+        "local_path": "/var/www/ccmixter/content/fluffy/fluffy_-_Sorry_to_Inform_You_4.mp3",
+        "file_rawsize": 2297313
+      },
+      {
+        "file_id": 27326,
+        "file_upload": 23715,
+        "file_name": "fluffy_-_Sorry_to_Inform_You_5.mp3",
+        "file_nicname": "drums-fx",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "1:55",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "7OQXPVW4UQ6NNF2XGENZOPFETIADO4HB"
+        },
+        "file_filesize": " (3.12MB)",
+        "file_order": 7,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/fluffy/fluffy_-_Sorry_to_Inform_You_5.mp3",
+        "local_path": "/var/www/ccmixter/content/fluffy/fluffy_-_Sorry_to_Inform_You_5.mp3",
+        "file_rawsize": 3270859
+      },
+      {
+        "file_id": 27327,
+        "file_upload": 23715,
+        "file_name": "fluffy_-_Sorry_to_Inform_You_6.mp3",
+        "file_nicname": "pad",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "1:02",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "QU3AADJIM2Q4DVW723FSDTM2GCMEPVQX"
+        },
+        "file_filesize": " (1.22MB)",
+        "file_order": 8,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/fluffy/fluffy_-_Sorry_to_Inform_You_6.mp3",
+        "local_path": "/var/www/ccmixter/content/fluffy/fluffy_-_Sorry_to_Inform_You_6.mp3",
+        "file_rawsize": 1278776
+      },
+      {
+        "file_id": 27328,
+        "file_upload": 23715,
+        "file_name": "fluffy_-_Sorry_to_Inform_You_7.mp3",
+        "file_nicname": "vox-backup-dry",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "1:43",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "acappella,media",
+          "type": "pella",
+          "sha1": "LWDO37MI3MU6T2HFV2S45AGMYZ4JKLRP"
+        },
+        "file_filesize": " (864KB)",
+        "file_order": 9,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/fluffy/fluffy_-_Sorry_to_Inform_You_7.mp3",
+        "local_path": "/var/www/ccmixter/content/fluffy/fluffy_-_Sorry_to_Inform_You_7.mp3",
+        "file_rawsize": 884908
+      },
+      {
+        "file_id": 27329,
+        "file_upload": 23715,
+        "file_name": "fluffy_-_Sorry_to_Inform_You_8.mp3",
+        "file_nicname": "vox-lead-dry",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "1:57",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "acappella,media",
+          "type": "pella",
+          "sha1": "K2OK7FNFBUGASNK4GUBGKET2J7PTFCIE"
+        },
+        "file_filesize": " (1.94MB)",
+        "file_order": 10,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/fluffy/fluffy_-_Sorry_to_Inform_You_8.mp3",
+        "local_path": "/var/www/ccmixter/content/fluffy/fluffy_-_Sorry_to_Inform_You_8.mp3",
+        "file_rawsize": 2031715
+      },
+      {
+        "file_id": 27330,
+        "file_upload": 23715,
+        "file_name": "fluffy_-_Sorry_to_Inform_You_9.mp3",
+        "file_nicname": "vox-full-effected",
+        "file_format_info": {
+          "media-type": "audio",
+          "format-name": "audio-mp3-mp3",
+          "default-ext": "mp3",
+          "mime_type": "audio/mpeg",
+          "sr": "44k",
+          "ch": "stereo",
+          "ps": "1:57",
+          "br": "VBR"
+        },
+        "file_extra": {
+          "ccud": "sample,media",
+          "type": "samples",
+          "sha1": "RHSCQK6VM45BBLSEP5X4OKJ6WS3ARGYL"
+        },
+        "file_filesize": " (2.22MB)",
+        "file_order": 11,
+        "file_is_remote": 0,
+        "file_num_download": 0,
+        "download_url": "https://ccmixter.org/content/fluffy/fluffy_-_Sorry_to_Inform_You_9.mp3",
+        "local_path": "/var/www/ccmixter/content/fluffy/fluffy_-_Sorry_to_Inform_You_9.mp3",
+        "file_rawsize": 2332299
+      }
+    ],
+    "download_url": "https://ccmixter.org/content/fluffy/fluffy_-_Sorry_to_Inform_You_10.mp3"
+  }
+]

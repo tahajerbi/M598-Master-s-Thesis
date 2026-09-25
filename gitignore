@@ -1,0 +1,19 @@
+# Python virtual environment (examiners create their own from requirements.txt)
+.venv/
+venv/
+env/
+
+# Python / Jupyter caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Temporary folder created by tests/test_offline.py
+tests/_tmp/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
