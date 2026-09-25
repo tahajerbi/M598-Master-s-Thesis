@@ -12,7 +12,7 @@ re-crawl anything:** the crawled data is included, and the notebooks run offline
 
 ---
 
-## 1. Quick start for examiners (≈ 20–25 minutes)
+## 1. Quick start (≈ 20–25 minutes)
 
 ```bash
 # 1. Get the code
